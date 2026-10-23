@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#03050a">
+  <meta name="description" content="Atlas of the Cosmos: a personal guide to NASA discoveries, missions, engineering, and free learning resources.">
+  <title>Atlas of the Cosmos | Moonscape edition</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="ambient ambient-a" aria-hidden="true"></div><div class="ambient ambient-b" aria-hidden="true"></div>
+  <div class="app-shell">
+    <aside class="sidebar" id="sidebar" aria-label="Main navigation">
+      <a class="brand" href="#/today" aria-label="Atlas of the Cosmos home">
+        <span class="brand-symbol"><span class="brand-orbit"></span><span class="brand-planet"></span></span>
+        <span><strong>Atlas <span>of the Cosmos</span></strong><small>Missions · Discovery · Engineering</small></span>
+      </a>
+      <div class="side-caption">EXPLORE</div>
+      <nav class="nav" aria-label="Site pages">
+        <a href="#/today" data-nav="today"><span class="nav-icon">✳</span><span>Today</span></a>
+        <a href="#/missions" data-nav="missions"><span class="nav-icon">◎</span><span>Missions</span></a>
+        <a href="#/discover" data-nav="discover"><span class="nav-icon">✦</span><span>Discover</span></a>
+        <a href="#/engineering" data-nav="engineering"><span class="nav-icon">⌘</span><span>Engineering Lab</span></a>
+        <a href="#/library" data-nav="library"><span class="nav-icon">▤</span><span>Learning Library</span></a>
+        <a href="#/saved" data-nav="saved"><span class="nav-icon">♡</span><span>Saved & Notes</span><span id="saved-count" class="nav-counter" hidden>0</span></a>
+      </nav>
+      <div class="sidebar-foot">
+        <div class="sidebar-pulse"><span class="pulse-dot"></span><span>NASA & Webb official sources</span></div>
+        <div class="sidebar-tip">A personal atlas of discoveries, missions and ideas.</div>
+        <a href="https://www.nasa.gov" target="_blank" rel="noopener noreferrer" class="external-small">NASA official website ↗</a>
+      </div>
+    </aside>
+    <div class="main-area">
+      <header class="topbar">
+        <button class="mobile-menu" id="menu-btn" aria-label="Toggle navigation">☰</button>
+        <div class="breadcrumb" id="breadcrumb">ATLAS / TODAY</div>
+        <div class="topbar-right"><span id="update-pill" class="update-pill">↻ Source snapshot</span><a class="top-save" href="#/saved" aria-label="Open saved items">♡ <span>Reading list</span></a></div>
+      </header>
+      <main id="app" tabindex="-1"></main>
+      <footer class="page-footer"><span>Atlas of the Cosmos · An independent, unofficial space-learning project</span><span>Homepage lunar artwork: AI-generated (conceptual) · <a href="https://www.nasa.gov/rss-feeds/" target="_blank" rel="noopener noreferrer">Feeds ↗</a></span></footer>
+    </div>
+  </div>
+  <script src="data/news.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
