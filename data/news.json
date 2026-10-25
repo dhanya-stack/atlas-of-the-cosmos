@@ -1,14 +1,8 @@
 {
-  "updated_at": "2026-10-24T06:06:43+00:00",
+  "updated_at": "2026-10-25T06:27:10+00:00",
   "status": "updated",
   "sources": [
-    "NASA Artemis",
-    "NASA mission blogs",
-    "NASA Space Station",
-    "NASA Technology",
-    "NASA news",
-    "NASA Artemis missions",
-    "NASA Image of the Day"
+    "NASA Space Station"
   ],
   "articles": [
     {
@@ -538,8 +532,8 @@
       "source": "NASA Artemis"
     }
   ],
-  "feed_success_count": 7,
-  "feed_failure_count": 1,
+  "feed_success_count": 1,
+  "feed_failure_count": 7,
   "image_of_day": {
     "title": "RS-25 Engine Tests at NASA Stennis",
     "url": "https://www.nasa.gov/image-detail/ssc-20261021-s00947horig/",
