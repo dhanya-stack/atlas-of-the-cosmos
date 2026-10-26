@@ -1,10 +1,40 @@
 {
-  "updated_at": "2026-10-25T06:27:10+00:00",
+  "updated_at": "2026-10-26T06:36:34+00:00",
   "status": "updated",
   "sources": [
-    "NASA Space Station"
+    "NASA mission blogs",
+    "NASA Artemis",
+    "NASA Space Station",
+    "NASA Artemis missions",
+    "NASA news",
+    "NASA Technology",
+    "NASA Image of the Day"
   ],
   "articles": [
+    {
+      "title": "2026 October 26 – M42: The Great Nebula in Orion",
+      "category": "Other",
+      "published": "2026-10-26T04:05:00+00:00",
+      "url": "https://science.nasa.gov/image-article/2026-october-26-m42-the-great-nebula-in-orion/",
+      "summary": "APOD Science APOD 2026 October 26 – M42: The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of ou",
+      "source": "NASA news"
+    },
+    {
+      "title": "Hunting Red Leaves with Satellites",
+      "category": "Other",
+      "published": "2026-10-26T04:01:00+00:00",
+      "url": "https://science.nasa.gov/earth/earth-observatory/hunting-red-leaves-with-satellites/",
+      "summary": "A modern satellite makes it possible to pursue the ancient tradition of leaf-peeping in a whole new way.",
+      "source": "NASA news"
+    },
+    {
+      "title": "APOD: 2026 October 25 – Dark Matter in a Simulated Universe",
+      "category": "Other",
+      "published": "2026-10-25T08:19:48+00:00",
+      "url": "https://science.nasa.gov/image-article/apod-2026-october-25-dark-matter-in-a-simulated-universe/",
+      "summary": "APOD Science APOD APOD: 2026 October 25 – Dark… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of ",
+      "source": "NASA news"
+    },
     {
       "title": "APOD: 2026 October 24 – Rosetta’s Selfie",
       "category": "Other",
@@ -532,8 +562,8 @@
       "source": "NASA Artemis"
     }
   ],
-  "feed_success_count": 1,
-  "feed_failure_count": 7,
+  "feed_success_count": 7,
+  "feed_failure_count": 1,
   "image_of_day": {
     "title": "RS-25 Engine Tests at NASA Stennis",
     "url": "https://www.nasa.gov/image-detail/ssc-20261021-s00947horig/",
