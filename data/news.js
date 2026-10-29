@@ -1,16 +1,104 @@
 window.NASA_NEWS = {
-  "updated_at": "2026-10-28T07:00:18+00:00",
+  "updated_at": "2026-10-29T07:22:51+00:00",
   "status": "updated",
   "sources": [
-    "NASA Space Station",
-    "NASA mission blogs",
-    "NASA Artemis missions",
+    "NASA Technology",
     "NASA Artemis",
     "NASA news",
-    "NASA Technology",
-    "NASA Image of the Day"
+    "NASA Artemis missions",
+    "NASA Space Station",
+    "NASA Image of the Day",
+    "NASA mission blogs"
   ],
   "articles": [
+    {
+      "title": "APOD: 29 October 2026 – The Horns of Venus",
+      "category": "Other",
+      "published": "2026-10-29T04:05:00+00:00",
+      "url": "https://science.nasa.gov/image-article/apod-29-october-2026-the-horns-of-venus/",
+      "summary": "APOD Science APOD APOD: 29 October 2026 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of o",
+      "source": "NASA news"
+    },
+    {
+      "title": "Arnab Strikes India",
+      "category": "Other",
+      "published": "2026-10-29T04:01:00+00:00",
+      "url": "https://science.nasa.gov/earth/earth-observatory/arnab-strikes-india/",
+      "summary": "The first named storm of the North Indian Ocean’s cyclone season made landfall along the coast of Andhra Pradesh.",
+      "source": "NASA news"
+    },
+    {
+      "title": "Caltech Names Artemis II Commander Reid Wiseman as NASA JPL Deputy",
+      "category": "Artemis",
+      "published": "2026-10-29T02:49:59+00:00",
+      "url": "https://www.nasa.gov/centers-and-facilities/jpl/caltech-names-artemis-ii-commander-reid-wiseman-as-nasa-jpl-deputy/",
+      "summary": "Artemis II Commander Reid Wiseman has been named Caltech associate vice president and deputy director of NASA’s Jet Propulsion Laboratory in Southern California. The emeritus astronaut and retired U.S. Navy captain begins his new ",
+      "source": "NASA news"
+    },
+    {
+      "title": "NASA Welcomes Vietnam as Newest Artemis Accords Signatory",
+      "category": "Artemis",
+      "published": "2026-10-28T21:50:01+00:00",
+      "url": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-vietnam-as-newest-artemis-accords-signatory/",
+      "summary": "The Socialist Republic of Vietnam became the 78th nation to sign the Artemis Accords, joining a growing coalition of like-minded nations committed to the peaceful, transparent, and responsible exploration of space. “Vietnam is joi",
+      "source": "NASA news"
+    },
+    {
+      "title": "NASA Celebrates a Year of Progress Since First X-59 Flight",
+      "category": "Other",
+      "published": "2026-10-28T19:24:28+00:00",
+      "url": "https://www.nasa.gov/blogs/quesst/2026/10/28/nasa-celebrates-a-year-of-progress-since-first-x-59-flight/",
+      "summary": "One year ago, NASA’s Quesst mission made history with the first flight of the X-59 quiet supersonic research aircraft. Since then, the X-59 has completed 40 additional flights, marking a year of steady progress for the program. Wh",
+      "source": "NASA mission blogs"
+    },
+    {
+      "title": "Artemis III SLS Core Stage Joins Boosters at Kennedy",
+      "category": "Artemis",
+      "published": "2026-10-28T18:59:44+00:00",
+      "url": "https://www.nasa.gov/image-article/artemis-iii-sls-core-stage-joins-boosters-at-kennedy/",
+      "summary": "NASA’s Artemis III SLS (Space Launch System) core stage is integrated alongside the twin solid rocket boosters on Oct. 28 inside the Vehicle Assembly Building’s High Bay 3 at NASA’s Kennedy Space Center in Florida. Technicians lif",
+      "source": "NASA news"
+    },
+    {
+      "title": "NASA University Challenge Ignites Trajectory of Drone Entrepreneur",
+      "category": "Other",
+      "published": "2026-10-28T18:00:28+00:00",
+      "url": "https://www.nasa.gov/aeronautics/nasa-challenge-drone-entrepreneur/",
+      "summary": "Five years ago, Gavin Gardner was a Michigan State University engineering student researching next-generation drone technology as part of a NASA grant. Garder expected the research to be demanding – but he was surprised that navig",
+      "source": "NASA news"
+    },
+    {
+      "title": "Astronauts Are Go For Thursday’s Power Upgrade Spacewalk",
+      "category": "Space Station",
+      "published": "2026-10-28T16:30:27+00:00",
+      "url": "https://www.nasa.gov/blogs/spacestation/2026/10/28/astronauts-are-go-for-thursdays-power-upgrade-spacewalk/",
+      "summary": "Mission managers have given the go for Thursday’s spacewalk to install a new roll-out solar array on the International Space Station’s port-side truss structure.",
+      "source": "NASA mission blogs"
+    },
+    {
+      "title": "NASA Selects 19 New Citizen Science Proposals in 2026",
+      "category": "Science",
+      "published": "2026-10-28T16:25:29+00:00",
+      "url": "https://science.nasa.gov/get-involved/citizen-science/nasa-selects-19-new-citizen-science-proposals-in-2026/",
+      "summary": "So far, 2026 has seen a flood of successes for volunteers who do NASA science, exemplifying NASA’s commitment to gold-standard science—transparent, reproducible and intrinsically collaborative. The Backyard Worlds: Planet 9 projec",
+      "source": "NASA news"
+    },
+    {
+      "title": "Webb Sees Turbulent Star Nursery",
+      "category": "Science",
+      "published": "2026-10-28T15:33:10+00:00",
+      "url": "https://www.nasa.gov/image-article/webb-sees-turbulent-star-nursery/",
+      "summary": "In this Webb image released on Oct. 22, 2026, we see a turbulent cauldron of star formation filled with dense clumps of gas. This region is named N159 and is located 161,000 light-years away in the Large Magellanic Cloud, one of t",
+      "source": "NASA news"
+    },
+    {
+      "title": "NASA’s Lucy Reaches Trojan Asteroid Region 5 Years After Launch",
+      "category": "Science",
+      "published": "2026-10-28T14:11:21+00:00",
+      "url": "https://science.nasa.gov/blogs/lucy/2026/10/28/nasas-lucy-reaches-trojan-asteroid-region-5-years-after-launch/",
+      "summary": "Having traveled more than 2.2 billion miles since it launched on Oct. 16, 2021, NASA’s Lucy is the first spacecraft to enter a region of primitive solar-system bodies known as the Jupiter Trojan asteroids.",
+      "source": "NASA mission blogs"
+    },
     {
       "title": "Curiosity Blog, Sols 5043-5049: Preparing to Drill at ‘Nazca’",
       "category": "Other",
@@ -720,23 +808,15 @@ window.NASA_NEWS = {
       "url": "https://www.nasa.gov/blogs/missions/2026/07/16/nasa-taps-spacexs-starlink-to-deliver-artemis-iii-imagery-from-orion/",
       "summary": "NASA has selected SpaceX to deliver laser communications capabilities for next year’s Artemis III mission, enabling the agency to provide a front row seat for viewers from the Orion spacecraft as four astronauts test rendezvous an",
       "source": "NASA Artemis"
-    },
-    {
-      "title": "NASA’s Artemis III Flight Hardware Stacks Up at Kennedy",
-      "category": "Artemis",
-      "published": "2026-07-13T19:52:21+00:00",
-      "url": "https://www.nasa.gov/blogs/missions/2026/07/13/nasas-artemis-iii-flight-hardware-stacks-up-at-kennedy/",
-      "summary": "It is full steam ahead at NASA’s Kennedy Space Center in Florida as teams process and assemble flight hardware in preparation for the upcoming crewed Artemis III mission. Less than three months after the safe return of the Artemis",
-      "source": "NASA Artemis"
     }
   ],
   "feed_success_count": 7,
   "feed_failure_count": 1,
   "image_of_day": {
-    "title": "NASA's Neo Surveyor Sunshade",
-    "url": "https://www.nasa.gov/image-detail/1-pia26715-bae-sunshade-inspection-2/",
-    "image": "https://www.nasa.gov/wp-content/uploads/2026/10/1-pia26715-bae-sunshade-inspection-1.jpg",
-    "published": "2026-10-27T18:02:00+00:00",
+    "title": "Webb Sees Turbulent Star Nursery",
+    "url": "https://www.nasa.gov/image-detail/stars-brewing-in-a-nebulous-cauldron/",
+    "image": "https://www.nasa.gov/wp-content/uploads/2026/10/55604475252-31d25bf2e0-o.jpg",
+    "published": "2026-10-28T15:35:00+00:00",
     "caption": "NASA Image of the Day · NASA"
   }
 };
