@@ -1,10 +1,152 @@
 window.NASA_NEWS = {
-  "updated_at": "2026-10-30T07:25:38+00:00",
+  "updated_at": "2026-10-31T07:13:54+00:00",
   "status": "updated",
   "sources": [
-    "NASA Artemis missions"
+    "NASA news",
+    "NASA Space Station",
+    "NASA Artemis missions",
+    "NASA Technology",
+    "NASA Artemis",
+    "NASA Image of the Day",
+    "NASA mission blogs"
   ],
   "articles": [
+    {
+      "title": "APOD: 2026 October 31 – Night on a Spooky Planet",
+      "category": "Science",
+      "published": "2026-10-31T04:05:00+00:00",
+      "url": "https://science.nasa.gov/image-article/apod-2026-october-31-night-on-a-spooky-planet/",
+      "summary": "APOD Science APOD APOD: 2026 October 31 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our f",
+      "source": "NASA news"
+    },
+    {
+      "title": "NASA Releases MAX POWER Key Events for Media, Participants",
+      "category": "Other",
+      "published": "2026-10-30T19:31:02+00:00",
+      "url": "https://www.nasa.gov/news-release/nasa-releases-max-power-key-events-for-media-participants/",
+      "summary": "America’s newest aerospace expo and air show – MAX POWER – is fast approaching, and NASA has announced key events beginning Friday, Nov. 6, and running through Sunday, Nov. 8, hosted on and near the agency’s Kennedy Space Center i",
+      "source": "NASA news"
+    },
+    {
+      "title": "Space Crops and Advanced Tech Wrap Up Week Following Spacewalk",
+      "category": "Space Station",
+      "published": "2026-10-30T17:50:49+00:00",
+      "url": "https://www.nasa.gov/blogs/spacestation/2026/10/30/space-crops-and-advanced-tech-wrap-up-week-following-spacewalk/",
+      "summary": "Space crops research wrapped up the week following the completion of the first of two power upgrade spacewalks at the International Space Station. The Expedition 75 crew members rounded out their research schedule with virtual rea",
+      "source": "NASA mission blogs"
+    },
+    {
+      "title": "NASA’s James Webb Space Telescope Captures Eerie Cat’s Head",
+      "category": "Science",
+      "published": "2026-10-30T15:56:26+00:00",
+      "url": "https://www.nasa.gov/image-article/nasas-james-webb-space-telescope-captures-eerie-cats-head/",
+      "summary": "Intricate structures within the Cat’s Head Nebula are illuminated in this mid-infrared view from NASA’s James Webb Space Telescope released on Oct. 29, 2026. The distinctive “cat’s head” shape of the nebula was likely sculpted ove",
+      "source": "NASA news"
+    },
+    {
+      "title": "NASA Explores Potential Commercial Servicing for Hubble Telescope",
+      "category": "Science",
+      "published": "2026-10-30T14:51:21+00:00",
+      "url": "https://science.nasa.gov/missions/hubble/nasa-explores-potential-commercial-servicing-for-hubble-telescope/",
+      "summary": "NASA issued a Request for Information Oct. 29 to learn more about industry capabilities for in-space servicing to support the agency’s Hubble Space Telescope.",
+      "source": "NASA news"
+    },
+    {
+      "title": "November’s Night Sky Notes: Light-Day Away",
+      "category": "Other",
+      "published": "2026-10-30T10:00:00+00:00",
+      "url": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/novembers-night-sky-notes-light-day-away/",
+      "summary": "Twin Travelers In 1977, NASA launched twin spacecraft Voyager 1 and 2, taking advantage of a once-every-175-year planetary alignment of the four largest planets in our solar system: Jupiter, Saturn, Uranus, and Neptune. Using six ",
+      "source": "NASA news"
+    },
+    {
+      "title": "APOD: 2026 October 30 – Haunting the Cepheus Flare",
+      "category": "Other",
+      "published": "2026-10-30T04:05:00+00:00",
+      "url": "https://science.nasa.gov/image-article/apod-2026-october-30-haunting-the-cepheus-flare/",
+      "summary": "APOD Science APOD APOD: 2026 October 30 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our f",
+      "source": "NASA news"
+    },
+    {
+      "title": "Vega Island Frozen in Fright",
+      "category": "Other",
+      "published": "2026-10-30T04:01:00+00:00",
+      "url": "https://science.nasa.gov/earth/earth-observatory/vega-island-frozen-in-fright/",
+      "summary": "The sight of an icy skull-like visage on the Antarctic island could make one’s blood run cold.",
+      "source": "NASA news"
+    },
+    {
+      "title": "Map Showing Potential Origins of Martian Meteorite Teghaza 001",
+      "category": "Other",
+      "published": "2026-10-30T00:07:39+00:00",
+      "url": "https://science.nasa.gov/photojournal/map-showing-potential-origins-of-martian-meteorite-teghaza-001/",
+      "summary": "Description This global map of Mars shows 13 locations that match the mineralogy and chemistry of Teghaza 001, one of the most ancient Martian meteorites ever found on Earth. While scientists can never know for sure where a Martia",
+      "source": "NASA news"
+    },
+    {
+      "title": "Slice of Martian Meteorite Teghaza 001",
+      "category": "Other",
+      "published": "2026-10-29T23:32:35+00:00",
+      "url": "https://science.nasa.gov/photojournal/slice-of-martian-meteorite-teghaza-001/",
+      "summary": "Description This slice of Teghaza 001, one of the most ancient Martian meteorites ever found on Earth, was used to determine the age of the rock. Reflected light images like these serve as a scientist’s road map, helping them find",
+      "source": "NASA news"
+    },
+    {
+      "title": "Halloween Aboard the International Space Station",
+      "category": "Space Station",
+      "published": "2026-10-29T21:44:23+00:00",
+      "url": "https://www.nasa.gov/centers-and-facilities/johnson/halloween-aboard-the-international-space-station/",
+      "summary": "Although no ghouls, goblins, or trick-or-treaters come knocking at the International Space Station’s front hatch, crew members aboard the orbiting laboratory still like to get in the Halloween spirit. Whether individually or as an",
+      "source": "NASA news"
+    },
+    {
+      "title": "Spacewalkers Install Roll-Out Solar Array for Power Generation",
+      "category": "Space Station",
+      "published": "2026-10-29T19:17:00+00:00",
+      "url": "https://www.nasa.gov/blogs/spacestation/2026/10/29/spacewalkers-install-roll-out-solar-arrays-for-power-generation/",
+      "summary": "NASA astronaut Anil Menon and CSA (Canadian Space Agency) astronNASA astronaut Anil Menon and CSA (Canadian Space Agency) astronaut Joshua Kutryk concluded their spacewalk outside the International Space Station at 3:08 p.m. EDT.",
+      "source": "NASA mission blogs"
+    },
+    {
+      "title": "NASA’s TRACERS First Results Offers Peek into Violent Magnetic Process",
+      "category": "Other",
+      "published": "2026-10-29T18:15:07+00:00",
+      "url": "https://science.nasa.gov/blogs/tracers/2026/10/29/nasas-tracers-first-results-offers-peek-into-violent-magnetic-process/",
+      "summary": "NASA’s TRACERS (Tandem Reconnection and Cusp Electrodynamics Reconnaissance Satellites) mission has gathered its first clues to how space weather affects Earth’s magnetic field. In a new paper, researchers break down how these int",
+      "source": "NASA mission blogs"
+    },
+    {
+      "title": "NASA’s Voyager 1 Conserves Power, Resolves Brief Communications Pause",
+      "category": "Other",
+      "published": "2026-10-29T17:30:08+00:00",
+      "url": "https://science.nasa.gov/blogs/voyager/2026/10/29/nasas-voyager-1-conserves-power-resolves-brief-communications-pause/",
+      "summary": "NASA’s Voyager team is celebrating two recent developments with the Voyager 1 spacecraft: In September, they successfully completed a months-long effort to stretch the spacecraft’s diminishing power supply. Then, on Oct. 20, an un",
+      "source": "NASA mission blogs"
+    },
+    {
+      "title": "NASA Funding Helps Virginia Assess Oyster Loss From Recent Algae Bloom",
+      "category": "Other",
+      "published": "2026-10-29T12:48:46+00:00",
+      "url": "https://science.nasa.gov/blogs/science-news/2026/10/29/nasa-virginia-oyster-loss-algae-bloom/",
+      "summary": "NASA-funded researchers are helping Virginia officials assess the impacts of a harmful algal bloom on oyster farms along the Chesapeake Bay’s Eastern Shore.",
+      "source": "NASA mission blogs"
+    },
+    {
+      "title": "Astronauts Begin Spacewalk to Install Roll-Out Solar Arrays",
+      "category": "Space Station",
+      "published": "2026-10-29T12:02:14+00:00",
+      "url": "https://www.nasa.gov/blogs/spacestation/2026/10/29/astronauts-begin-spacewalk-to-install-roll-out-solar-arrays-2/",
+      "summary": "NASA astronaut Anil Menon and CSA (Canadian Space Agency) astronaut Joshua Kutryk began a spacewalk at 7:57 a.m. EDT outside the International Space Station airlock to install and deploy an International Space Station Roll-Out Sol",
+      "source": "NASA mission blogs"
+    },
+    {
+      "title": "Astronauts Suit Up to Prepare for Power Upgrade Spacewalk",
+      "category": "Space Station",
+      "published": "2026-10-29T10:32:26+00:00",
+      "url": "https://www.nasa.gov/blogs/spacestation/2026/10/29/astronauts-suit-up-to-prepare-for-power-upgrade-spacewalk/",
+      "summary": "NASA is streaming live coverage as two astronauts prepare for a spacewalk outside the International Space Station.",
+      "source": "NASA mission blogs"
+    },
     {
       "title": "APOD: 29 October 2026 – The Horns of Venus",
       "category": "Other",
@@ -668,149 +810,15 @@ window.NASA_NEWS = {
       "url": "https://www.nasa.gov/news-release/nasa-science-cargo-launch-on-35th-spacex-resupply-mission-to-station/",
       "summary": "NASA’s SpaceX 35th commercial resupply mission lifted off at 6:33 a.m. EDT Tuesday aboard a Falcon 9 rocket from Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida, carrying more than 6,300 pounds of supplies",
       "source": "NASA Space Station"
-    },
-    {
-      "title": "NASA’s SpaceX CRS-35 Mission to Launch Health Research",
-      "category": "Space Station",
-      "published": "2026-10-12T17:45:27+00:00",
-      "url": "https://science.nasa.gov/missions/station/nasas-spacex-crs-35-mission-to-launch-health-research/",
-      "summary": "NASA experiments focused on human and plant health and drug-resistant organisms will travel to the International Space Station aboard SpaceX’s 35th Commercial Resupply Services mission for the agency from Cape Canaveral Space Forc",
-      "source": "NASA Space Station"
-    },
-    {
-      "title": "NASA Demonstrates Next-Generation Heat Shield Technologies",
-      "category": "Engineering",
-      "published": "2026-10-09T16:59:24+00:00",
-      "url": "https://www.nasa.gov/centers-and-facilities/ames/nasa-demonstrates-next-generation-heat-shield-technologies/",
-      "summary": "NASA is testing heat shields that can keep astronauts safe as they return from missions to the Moon and Mars in an unusual way: by taking out the trash. When Northrop Grumman 24th cargo resupply mission for NASA undocked from the ",
-      "source": "NASA Space Station"
-    },
-    {
-      "title": "Crew-12 Returns to Earth",
-      "category": "Space Station",
-      "published": "2026-10-08T18:52:27+00:00",
-      "url": "https://www.nasa.gov/image-article/crew-12-returns-to-earth/",
-      "summary": "The SpaceX Crew Dragon Freedom spacecraft is seen moments before splashing down in the Pacific Ocean off the coast of California in this Oct. 8, 2026, photograph. Aboard were NASA’s SpaceX Crew-12 members NASA astronauts Jessica M",
-      "source": "NASA Space Station"
-    },
-    {
-      "title": "NASA’s SpaceX Crew‑12 Splashes Down, Sets Briefing to Discuss Mission",
-      "category": "Space Station",
-      "published": "2026-10-08T17:02:28+00:00",
-      "url": "https://www.nasa.gov/news-release/nasas-spacex-crew-12-splashes-down-sets-briefing-to-discuss-mission/",
-      "summary": "After more than seven months aboard the International Space Station, NASA’s SpaceX Crew-12 mission safely splashed down Thursday in the Pacific Ocean off the coast of Los Angeles. The crew members will discuss their science missio",
-      "source": "NASA Space Station"
-    },
-    {
-      "title": "NASA Releases Artemis II Lunar Science Data, Images",
-      "category": "Artemis",
-      "published": "2026-10-07T16:12:54+00:00",
-      "url": "https://www.nasa.gov/blogs/missions/2026/10/07/nasa-releases-artemis-ii-lunar-science-data-images/",
-      "summary": "NASA’s Artemis II crew traveled around the Moon and back and, along the way, captured stunning imagery and scientific observations of our nearest neighbor. NASA is making the full lunar science dataset from their journey available",
-      "source": "NASA Artemis"
-    },
-    {
-      "title": "Artemis II Crew Moon Photo Annotations",
-      "category": "Artemis",
-      "published": "2026-10-07T15:44:59+00:00",
-      "url": "https://www.nasa.gov/image-article/artemis-ii-crew-moon-photo-annotations/",
-      "summary": "A visualization of a dark Moon eclipsing the Sun is marked with handwritten notes in this April 6, 2026, screenshot from an Artemis II crew member’s tablet. NASA astronauts Reid Wiseman (in blue) and Victor “Ike” Glover (in green)",
-      "source": "NASA Artemis missions"
-    },
-    {
-      "title": "NASA Releases Artemis II Lunar Science Data, Images",
-      "category": "Artemis",
-      "published": "2026-10-07T12:12:00+00:00",
-      "url": "https://www.nasa.gov/blogs/artemis/2026/10/07/nasa-releases-artemis-ii-lunar-science-data-images/",
-      "summary": "More than 800 GB of lunar science data, including over 11,000 images and videos, have been opened for public exploration."
-    },
-    {
-      "title": "Artemis II Preliminary Lunar Science Report",
-      "category": "Science",
-      "published": "2026-10-07T12:00:00+00:00",
-      "url": "https://science.nasa.gov/feature/artemis-ii-preliminary-lunar-science-report/",
-      "summary": "NASA published a guide to the crew's lunar observations, audio, annotated imagery and scientific analyses."
-    },
-    {
-      "title": "NASA Astronaut Christina Koch to Join NFL Fans in Philadelphia",
-      "category": "Artemis",
-      "published": "2026-10-02T19:54:54+00:00",
-      "url": "https://www.nasa.gov/news-release/nasa-astronaut-christina-koch-to-join-nfl-fans-in-philadelphia/",
-      "summary": "As part of NASA’s ongoing Inspiration Tour, NASA astronaut Christina Koch will highlight America’s strengths in space exploration and aeronautics innovation at the Philadelphia Eagles vs. Los Angeles Rams game in Philadelphia on S",
-      "source": "NASA Artemis missions"
-    },
-    {
-      "title": "NASA Opens Applications for Next Class of Flight Directors",
-      "category": "Artemis",
-      "published": "2026-10-02T15:49:26+00:00",
-      "url": "https://www.nasa.gov/news-release/nasa-opens-applications-for-next-class-of-flight-directors/",
-      "summary": "NASA is seeking leaders for one of the most esteemed positions on Earth for human spaceflight: flight director in mission control at the agency’s Johnson Space Center in Houston. This role is critical to advancing American leaders",
-      "source": "NASA Artemis missions"
-    },
-    {
-      "title": "Rains Swamp the Gandak River",
-      "category": "Engineering",
-      "published": "2026-10-02T04:01:00+00:00",
-      "url": "https://science.nasa.gov/earth/earth-observatory/rains-swamp-the-gandak-river/",
-      "summary": "After days of torrential rain, the river rose to record-breaking levels in parts of Nepal and India.",
-      "source": "NASA Technology"
-    },
-    {
-      "title": "NASA Adds New Science Investigations for Moon Base",
-      "category": "Science",
-      "published": "2026-09-30T21:11:23+00:00",
-      "url": "https://www.nasa.gov/news-release/nasa-adds-new-science-investigations-for-moon-base/",
-      "summary": "Editor’s note: This release was updated on Oct. 2, 2026, to correct the full names of the DISCO and GIMLI payloads. NASA selected three new scientific investigations and their payload suites to advance our knowledge of the Moon an",
-      "source": "NASA Artemis missions"
-    },
-    {
-      "title": "Powerful Storms Continue to Prowl the Pacific",
-      "category": "Engineering",
-      "published": "2026-09-30T04:01:00+00:00",
-      "url": "https://science.nasa.gov/earth/earth-observatory/powerful-storms-continue-to-prowl-the-pacific/",
-      "summary": "Hurricanes Polo and Nolo sent destructive effects ashore amid an active season in the northeastern and central Pacific.",
-      "source": "NASA Technology"
-    },
-    {
-      "title": "Reliable Robots: Meet Johnson’s Dexterous Robotics Team",
-      "category": "Engineering",
-      "published": "2026-09-28T10:00:00+00:00",
-      "url": "https://www.nasa.gov/centers-and-facilities/johnson/reliable-robots-meet-johnsons-dexterous-robotics-team/",
-      "summary": "The idea of humans and robots working side-by-side in space was once the stuff of science fiction, but with NASA launching increasingly complex missions deeper into space, human-robot collaboration could become reality. Advanced r",
-      "source": "NASA Technology"
-    },
-    {
-      "title": "NASA Starts Artemis III Engine Install; Boosters, Crew Training Advance",
-      "category": "Artemis",
-      "published": "2026-08-27T17:43:03+00:00",
-      "url": "https://www.nasa.gov/blogs/missions/2026/08/27/nasa-starts-artemis-iii-engine-install-boosters-crew-training-advance/",
-      "summary": "Technicians at NASA’s Kennedy Space Center in Florida began the installation of the four RS-25 engines in the core stage of the agency’s SLS (Space Launch System) rocket that will launch the Artemis III crew next year. The milesto",
-      "source": "NASA Artemis"
-    },
-    {
-      "title": "NASA Joins Artemis III Orion Modules; Rocket Hardware Update",
-      "category": "Artemis",
-      "published": "2026-08-05T17:00:56+00:00",
-      "url": "https://www.nasa.gov/blogs/missions/2026/08/05/nasa-joins-artemis-iii-orion-modules-rocket-hardware-update/",
-      "summary": "NASA is advancing toward Artemis III’s crewed demonstration mission with accelerated, measurable progress across all fronts, outpacing Artemis II integration timelines as teams ready the Orion spacecraft and SLS (Space Launch Syst",
-      "source": "NASA Artemis"
-    },
-    {
-      "title": "NASA Taps SpaceX’s Starlink to Deliver Artemis III Imagery from Orion",
-      "category": "Artemis",
-      "published": "2026-07-16T21:26:04+00:00",
-      "url": "https://www.nasa.gov/blogs/missions/2026/07/16/nasa-taps-spacexs-starlink-to-deliver-artemis-iii-imagery-from-orion/",
-      "summary": "NASA has selected SpaceX to deliver laser communications capabilities for next year’s Artemis III mission, enabling the agency to provide a front row seat for viewers from the Orion spacecraft as four astronauts test rendezvous an",
-      "source": "NASA Artemis"
     }
   ],
-  "feed_success_count": 1,
-  "feed_failure_count": 7,
+  "feed_success_count": 7,
+  "feed_failure_count": 1,
   "image_of_day": {
-    "title": "Webb Sees Turbulent Star Nursery",
-    "url": "https://www.nasa.gov/image-detail/stars-brewing-in-a-nebulous-cauldron/",
-    "image": "https://www.nasa.gov/wp-content/uploads/2026/10/55604475252-31d25bf2e0-o.jpg",
-    "published": "2026-10-28T15:35:00+00:00",
+    "title": "NASA's James Webb Space Telescope Captures Eerie Cat's Head",
+    "url": "https://www.nasa.gov/image-detail/full-res-for-display-6/",
+    "image": "https://www.nasa.gov/wp-content/uploads/2026/10/full-res-for-display.png",
+    "published": "2026-10-30T15:57:00+00:00",
     "caption": "NASA Image of the Day · NASA"
   }
 };
