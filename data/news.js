@@ -1,16 +1,24 @@
 window.NASA_NEWS = {
-  "updated_at": "2026-10-31T07:13:54+00:00",
+  "updated_at": "2026-11-01T07:45:33+00:00",
   "status": "updated",
   "sources": [
-    "NASA news",
     "NASA Space Station",
-    "NASA Artemis missions",
-    "NASA Technology",
     "NASA Artemis",
+    "NASA Artemis missions",
+    "NASA news",
+    "NASA Technology",
     "NASA Image of the Day",
     "NASA mission blogs"
   ],
   "articles": [
+    {
+      "title": "APOD: 2026 November 1 – Colors of the Moon",
+      "category": "Other",
+      "published": "2026-11-01T04:05:00+00:00",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-1-colors-of-the-moon/",
+      "summary": "APOD Science APOD APOD: 2026 November 1 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our f",
+      "source": "NASA news"
+    },
     {
       "title": "APOD: 2026 October 31 – Night on a Spooky Planet",
       "category": "Science",
@@ -802,14 +810,6 @@ window.NASA_NEWS = {
       "url": "https://www.nasa.gov/missions/moon-base/nasa-jpl-testing-readies-voyager-technologies-lander-for-moon-mission/",
       "summary": "A commercial lander that will be at the forefront of NASA’s efforts to establish a Moon Base, humanity’s first lunar outpost, has passed a series of critical tests at the agency’s Jet Propulsion Laboratory in Southern California. ",
       "source": "NASA Artemis missions"
-    },
-    {
-      "title": "NASA Science, Cargo Launch on 35th SpaceX Resupply Mission to Station",
-      "category": "Science",
-      "published": "2026-10-13T11:12:18+00:00",
-      "url": "https://www.nasa.gov/news-release/nasa-science-cargo-launch-on-35th-spacex-resupply-mission-to-station/",
-      "summary": "NASA’s SpaceX 35th commercial resupply mission lifted off at 6:33 a.m. EDT Tuesday aboard a Falcon 9 rocket from Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida, carrying more than 6,300 pounds of supplies",
-      "source": "NASA Space Station"
     }
   ],
   "feed_success_count": 7,
