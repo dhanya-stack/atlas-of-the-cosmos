@@ -1,16 +1,32 @@
 window.NASA_NEWS = {
-  "updated_at": "2026-11-01T07:45:33+00:00",
+  "updated_at": "2026-11-02T07:52:35+00:00",
   "status": "updated",
   "sources": [
     "NASA Space Station",
-    "NASA Artemis",
     "NASA Artemis missions",
+    "NASA Artemis",
+    "NASA mission blogs",
     "NASA news",
     "NASA Technology",
-    "NASA Image of the Day",
-    "NASA mission blogs"
+    "NASA Image of the Day"
   ],
   "articles": [
+    {
+      "title": "APOD: 2026 November 2 – A Long Cloud on Mars",
+      "category": "Other",
+      "published": "2026-11-02T05:05:00+00:00",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-2-a-long-cloud-on-mars/",
+      "summary": "APOD Science APOD APOD: 2026 November 2 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our",
+      "source": "NASA news"
+    },
+    {
+      "title": "Pennsylvania’s Grand Canyon",
+      "category": "Other",
+      "published": "2026-11-02T05:01:00+00:00",
+      "url": "https://science.nasa.gov/earth/earth-observatory/pennsylvanias-grand-canyon/",
+      "summary": "Amid the warm hues of fall foliage, Pine Creek Gorge forms a deep scar in the Allegheny Plateau.",
+      "source": "NASA news"
+    },
     {
       "title": "APOD: 2026 November 1 – Colors of the Moon",
       "category": "Other",
@@ -794,22 +810,6 @@ window.NASA_NEWS = {
       "url": "https://science.nasa.gov/earth/earth-observatory/hurricane-simon-lurks-off-the-mexican-coast/",
       "summary": "Though it remained offshore, the storm lashed coastal areas with high winds and flooding—and produced remarkable rippling patterns in the upper atmosphere.",
       "source": "NASA Technology"
-    },
-    {
-      "title": "NASA Completes Artemis III Booster Stacking, Shares Status Update",
-      "category": "Artemis",
-      "published": "2026-10-13T18:44:03+00:00",
-      "url": "https://www.nasa.gov/blogs/missions/2026/10/13/nasa-completes-artemis-iii-booster-stacking-shares-status-update/",
-      "summary": "Progress on NASA’s Artemis III’s SLS (Space Launch System) rocket continues at NASA’s Kennedy Space Center in Florida, where teams have completed the integration of the final solid rocket booster motor segments onto the mobile lau",
-      "source": "NASA Artemis"
-    },
-    {
-      "title": "NASA JPL Testing Readies Voyager Technologies Lander for Moon Mission",
-      "category": "Artemis",
-      "published": "2026-10-13T13:00:00+00:00",
-      "url": "https://www.nasa.gov/missions/moon-base/nasa-jpl-testing-readies-voyager-technologies-lander-for-moon-mission/",
-      "summary": "A commercial lander that will be at the forefront of NASA’s efforts to establish a Moon Base, humanity’s first lunar outpost, has passed a series of critical tests at the agency’s Jet Propulsion Laboratory in Southern California. ",
-      "source": "NASA Artemis missions"
     }
   ],
   "feed_success_count": 7,
