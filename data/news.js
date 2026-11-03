@@ -1,16 +1,43 @@
 window.NASA_NEWS = {
-  "updated_at": "2026-11-02T07:52:35+00:00",
+  "updated_at": "2026-11-03T08:11:13+00:00",
   "status": "updated",
   "sources": [
-    "NASA Space Station",
-    "NASA Artemis missions",
-    "NASA Artemis",
     "NASA mission blogs",
-    "NASA news",
-    "NASA Technology",
-    "NASA Image of the Day"
+    "NASA Technology"
   ],
   "articles": [
+    {
+      "title": "The Pacific’s Busy Storm Season",
+      "category": "Engineering",
+      "published": "2026-11-03T05:01:00+00:00",
+      "url": "https://science.nasa.gov/earth/earth-observatory/the-pacifics-busy-storm-season/",
+      "summary": "Super Typhoon In-fa developed an unusually large eye, and the remnants of Typhoon Champi transitioned into an extratropical storm that targeted Alaska.",
+      "source": "NASA Technology"
+    },
+    {
+      "title": "Week Starts with Spacewalk Preps and Life Science",
+      "category": "Space Station",
+      "published": "2026-11-02T19:14:48+00:00",
+      "url": "https://www.nasa.gov/blogs/spacestation/2026/11/02/week-starts-with-spacewalk-preps-and-life-science/",
+      "summary": "Preparations continue for the second in the final series of spacewalks to upgrade the International Space Station’s power generation system on Thursday. Meanwhile, the Expedition 75 crew focused its research efforts on life scienc",
+      "source": "NASA mission blogs"
+    },
+    {
+      "title": "NASA’s Twin ESCAPADE Spacecraft to Slingshot Past Earth on Way to Mars",
+      "category": "Science",
+      "published": "2026-11-02T19:11:28+00:00",
+      "url": "https://science.nasa.gov/blogs/escapade/2026/11/02/nasas-twin-escapade-spacecraft-to-slingshot-past-earth-on-way-to-mars/",
+      "summary": "In a few days, NASA’s ESCAPADE (Escape and Plasma Acceleration and Dynamics Explorers) will perform a maneuver that no agency spacecraft has flown before — and do it twice. Each of the two ESCAPADE spacecraft will execute a “power",
+      "source": "NASA mission blogs"
+    },
+    {
+      "title": "NASA’s Swift Observatory to Re-Enter Atmosphere",
+      "category": "Other",
+      "published": "2026-11-02T17:59:53+00:00",
+      "url": "https://science.nasa.gov/blogs/swift/2026/11/02/nasas-swift-observatory-to-re-enter-atmosphere/",
+      "summary": "NASA’s Neil Gehrels Swift Observatory is expected to re-enter Earth’s atmosphere on Wednesday, Nov. 4, almost 22 years after launch. At launch, Swift was a first-of-its-kind multiwavelength observatory designed to study the most p",
+      "source": "NASA mission blogs"
+    },
     {
       "title": "APOD: 2026 November 2 – A Long Cloud on Mars",
       "category": "Other",
@@ -778,42 +805,10 @@ window.NASA_NEWS = {
       "url": "https://www.nasa.gov/news-release/nasa-to-host-news-conference-previewing-us-spacewalks-100-101/",
       "summary": "NASA will preview two upcoming spacewalks to complete solar array installation and power augmentation of the International Space Station during a news conference at 2 p.m. EDT, Tuesday, Oct. 20, from NASA’s Johnson Space Center in",
       "source": "NASA Space Station"
-    },
-    {
-      "title": "NASA Astronauts to Answer Questions from Florida Students",
-      "category": "Space Station",
-      "published": "2026-10-14T19:12:51+00:00",
-      "url": "https://www.nasa.gov/learning-resources/nasa-astronauts-to-answer-questions-from-florida-students/",
-      "summary": "Editor’s Note: This article was updated Thursday, Oct. 15, 2026, to reflect a change to the event start time. Students in Florida will hear from NASA astronauts Jessica Watkins and Luke Delaney as they answer prerecorded STEM ques",
-      "source": "NASA Space Station"
-    },
-    {
-      "title": "NASA Develops Batteries to Power Humanity’s Return to Moon",
-      "category": "Engineering",
-      "published": "2026-10-14T14:41:21+00:00",
-      "url": "https://www.nasa.gov/centers-and-facilities/langley/nasa-develops-batteries-to-power-humanitys-return-to-moon/",
-      "summary": "If you’ve ever had your car start sluggishly, or not at all, on a particularly frigid winter morning, you know standard batteries do not like extreme cold. That’s why NASA researchers are working to develop a battery that could fu",
-      "source": "NASA Technology"
-    },
-    {
-      "title": "NASA to Discuss Artemis Acceleration, Status of Upcoming Moon Missions",
-      "category": "Artemis",
-      "published": "2026-10-14T13:32:25+00:00",
-      "url": "https://www.nasa.gov/news-release/nasa-to-discuss-artemis-acceleration-status-of-upcoming-moon-missions/",
-      "summary": "NASA will provide an update on its plans to return American astronauts to the surface of the Moon by 2028 at 2 p.m. EDT, Friday, Oct. 23, at the agency’s Kennedy Space Center in Florida. Learn where to watch online: https://www.na",
-      "source": "NASA Artemis missions"
-    },
-    {
-      "title": "Hurricane Simon Lurks Off the Mexican Coast",
-      "category": "Engineering",
-      "published": "2026-10-14T04:01:00+00:00",
-      "url": "https://science.nasa.gov/earth/earth-observatory/hurricane-simon-lurks-off-the-mexican-coast/",
-      "summary": "Though it remained offshore, the storm lashed coastal areas with high winds and flooding—and produced remarkable rippling patterns in the upper atmosphere.",
-      "source": "NASA Technology"
     }
   ],
-  "feed_success_count": 7,
-  "feed_failure_count": 1,
+  "feed_success_count": 2,
+  "feed_failure_count": 6,
   "image_of_day": {
     "title": "NASA's James Webb Space Telescope Captures Eerie Cat's Head",
     "url": "https://www.nasa.gov/image-detail/full-res-for-display-6/",
