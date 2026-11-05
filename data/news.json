@@ -1,16 +1,96 @@
 {
-  "updated_at": "2026-11-04T07:42:26+00:00",
+  "updated_at": "2026-11-05T08:04:55+00:00",
   "status": "updated",
   "sources": [
+    "NASA mission blogs",
     "NASA Space Station",
     "NASA Artemis",
     "NASA Artemis missions",
-    "NASA Technology",
     "NASA news",
-    "NASA Image of the Day",
-    "NASA mission blogs"
+    "NASA Technology",
+    "NASA Image of the Day"
   ],
   "articles": [
+    {
+      "title": "APOD: 2026 November 5 – Enceladus in Silhouette",
+      "category": "Other",
+      "published": "2026-11-05T05:05:00+00:00",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-5-enceladus-in-silhouette/",
+      "summary": "APOD Science APOD APOD: 2026 November 5 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our f",
+      "source": "NASA news"
+    },
+    {
+      "title": "Cyprus: Island of Snakes, Cats, and Ophiolites",
+      "category": "Other",
+      "published": "2026-11-05T05:01:00+00:00",
+      "url": "https://science.nasa.gov/earth/earth-observatory/cyprus-island-of-snakes-cats-and-ophiolites/",
+      "summary": "The third-largest island in the Mediterranean Sea exposes an ancient piece of the ocean floor and hosts a clowder of cats.",
+      "source": "NASA news"
+    },
+    {
+      "title": "NASA Announces X-70 Experimental Aircraft to Advance Flight Research",
+      "category": "Other",
+      "published": "2026-11-05T01:43:21+00:00",
+      "url": "https://www.nasa.gov/news-release/nasa-announces-x-70-experimental-aircraft-to-advance-flight-research/",
+      "summary": "On Wednesday, NASA unveiled its newest experimental aircraft, the X-70 Fractal, during the UP.Summit at the agency’s Kennedy Space Center in Florida. This high-performance, highly adaptable research platform is designed to acceler",
+      "source": "NASA news"
+    },
+    {
+      "title": "NASA Shares Plans to Accelerate Artemis, Return to Moon",
+      "category": "Artemis",
+      "published": "2026-11-04T21:04:10+00:00",
+      "url": "https://www.nasa.gov/missions/artemis/nasa-shares-plans-to-accelerate-artemis-return-to-moon/",
+      "summary": "In an update on Oct. 23, NASA Administrator Jared Isaacman and other agency leaders shared the agency’s path to returning Americans to the lunar surface in 2028. Agency leadership provided updates on the previously announced accel",
+      "source": "NASA Artemis missions"
+    },
+    {
+      "title": "NASA Announces Ka-Band Satellite Relay Awards for Space Communications",
+      "category": "Other",
+      "published": "2026-11-04T18:00:02+00:00",
+      "url": "https://www.nasa.gov/news-release/nasa-announces-ka-band-satellite-relay-awards-for-space-communications/",
+      "summary": "NASA selected three companies on Wednesday to perform work to develop Ka-band space relay capability concepts that are compatible with current missions in space, ensuring service continuity for existing spacecraft without requirin",
+      "source": "NASA news"
+    },
+    {
+      "title": "NASA Navigation Experiment Shows Promise for Planetary Landings",
+      "category": "Science",
+      "published": "2026-11-04T16:52:43+00:00",
+      "url": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-navigation-experiment-shows-promise-for-planetary-landings/",
+      "summary": "NASA successfully demonstrated technology designed to help spacecraft autonomously navigate to safe landing sites on the Moon and on other planets. An Alta-X drone equipped with the agency’s Safe and Precise Landing – Integrated C",
+      "source": "NASA news"
+    },
+    {
+      "title": "NASA Space Grant Students Fuel Agency’s Inspiration Tour",
+      "category": "Other",
+      "published": "2026-11-04T16:16:41+00:00",
+      "url": "https://www.nasa.gov/learning-resources/nasa-space-grant-students-fuel-agencys-inspiration-tour/",
+      "summary": "NASA’s Inspiration Tour spread the excitement of space exploration and aeronautical innovation by connecting the public, industry, and academia with the people, technologies, and organizations that drive American leadership in spa",
+      "source": "NASA news"
+    },
+    {
+      "title": "Astronauts are Go for Final Power Upgrade Spacewalk",
+      "category": "Space Station",
+      "published": "2026-11-04T16:00:58+00:00",
+      "url": "https://www.nasa.gov/blogs/spacestation/2026/11/04/astronauts-are-go-for-final-power-upgrade-spacewalk/",
+      "summary": "Mission managers have given the go for two astronauts to exit the International Space Station on Thursday and install its eighth and final roll-out solar array. The Expedition 75 crew members completed final preparations for the s",
+      "source": "NASA mission blogs"
+    },
+    {
+      "title": "Hubble Reveals Cosmic Mystery",
+      "category": "Science",
+      "published": "2026-11-04T15:59:36+00:00",
+      "url": "https://www.nasa.gov/image-article/hubble-reveals-cosmic-mystery/",
+      "summary": "This photo released on Nov. 2, 2026, showcases NGC 4449, a dwarf irregular. Researchers using NASA’s Hubble Space Telescope studied 37 nearby dwarf galaxies — small galaxies containing a few thousand to hundreds of millions of sta",
+      "source": "NASA news"
+    },
+    {
+      "title": "Solar Flare Alert System Helps NASA Rocket Team Decide When to Launch",
+      "category": "Science",
+      "published": "2026-11-04T15:05:17+00:00",
+      "url": "https://science.nasa.gov/blogs/science-news/2026/11/04/solar-flare-alert-system-helps-nasa-rocket-team-decide-when-to-launch/",
+      "summary": "For the first time, scientists have used NASA sounding rockets to study a solar flare in progress, thanks to a new flare alert system that told the team when to launch. Solar flares accelerate particles and release energy into the",
+      "source": "NASA mission blogs"
+    },
     {
       "title": "APOD: 2026 November 4 – The Not-So-Hidden Galaxy, IC 342",
       "category": "Science",
@@ -730,95 +810,15 @@
       "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-charts-path-for-roman-with-gravitational-lenses/",
       "summary": "This observation is one of many gravitational lensing images taken by Hubble in preparation for science with the new Nancy Grace Roman Space Telescope.",
       "source": "NASA news"
-    },
-    {
-      "title": "Pedal to the Metal: NASA’s Psyche Heads Toward Asteroid Belt",
-      "category": "Science",
-      "published": "2026-10-22T16:16:58+00:00",
-      "url": "https://science.nasa.gov/blogs/psyche/2026/10/22/pedal-to-the-metal-nasas-psyche-heads-toward-asteroid-belt/",
-      "summary": "With a successful Mars gravity assist in its rearview mirror, NASA’s Psyche spacecraft has fired up its thrusters and is accelerating to the metal-rich asteroid of the same name. During the first leg of its journey, following an O",
-      "source": "NASA mission blogs"
-    },
-    {
-      "title": "APOD: 2026 October 22 – The First Green Star, WD J1330+6435",
-      "category": "Science",
-      "published": "2026-10-22T04:05:00+00:00",
-      "url": "https://science.nasa.gov/image-article/apod-2026-october-22-the-first-green-star-wd-j13306435/",
-      "summary": "APOD Science APOD APOD: 2026 October 22 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of o",
-      "source": "NASA news"
-    },
-    {
-      "title": "Fires Char New Guinea",
-      "category": "Engineering",
-      "published": "2026-10-22T04:01:00+00:00",
-      "url": "https://science.nasa.gov/earth/earth-observatory/fires-char-new-guinea/",
-      "summary": "Emissions on both sides of the island are unusually high as human-set fires spread in a landscape parched by drought.",
-      "source": "NASA Technology"
-    },
-    {
-      "title": "Faster to Science: A Letter to the Science Community",
-      "category": "Science",
-      "published": "2026-10-22T00:00:16+00:00",
-      "url": "https://science.nasa.gov/directorates/smd/faster-to-science-a-letter-to-the-science-community/",
-      "summary": "NASA Science wants to deliver science faster, so we’re changing how we compete and select missions. On Monday, October 26, we will host a virtual NASA Science Town Hall.",
-      "source": "NASA news"
-    },
-    {
-      "title": "NASA Conducts RS-25 Engine Test in Support of Future Artemis Missions",
-      "category": "Artemis",
-      "published": "2026-10-21T20:51:50+00:00",
-      "url": "https://www.nasa.gov/image-article/rs-25-engine-test-in-support-of-future-artemis-missions/",
-      "summary": "NASA tested RS-25 engine No. 10001 on Oct. 21 on the Fred Haise Test Stand at NASA’s Stennis Space Center near Bay St. Louis, Mississippi. Test teams fired the developmental engine for almost eight-and-a-half minutes (500 seconds)",
-      "source": "NASA news"
-    },
-    {
-      "title": "NASA JPL Looks to Next 90 Years of Innovation, Exploration",
-      "category": "Other",
-      "published": "2026-10-21T18:35:56+00:00",
-      "url": "https://www.nasa.gov/centers-and-facilities/jpl/nasa-jpl-looks-to-next-90-years-of-innovation-exploration/",
-      "summary": "Interstellar probes. Lunar drones. Helicopters on Mars. When a group of Caltech graduate students and enthusiasts began conducting rocket-propulsion tests in Pasadena’s Arroyo Seco on Oct. 31, 1936, they had no idea that their wor",
-      "source": "NASA news"
-    },
-    {
-      "title": "Spacesuits, Lunar Agriculture, and Breathing Research Top Wednesday’s Schedule",
-      "category": "Other",
-      "published": "2026-10-21T16:22:01+00:00",
-      "url": "https://www.nasa.gov/blogs/spacestation/2026/10/21/spacesuits-lunar-agriculture-and-breathing-research-top-wednesdays-schedule/",
-      "summary": "Spacesuit checks topped Wednesday’s task list aboard the International Space Station as two astronauts prepare for a spacewalk next week. The Expedition 75 crew members also kept up advanced microgravity research exploring space a",
-      "source": "NASA mission blogs"
-    },
-    {
-      "title": "Science on the Space Station with NASA Astronaut Jessica Watkins",
-      "category": "Space Station",
-      "published": "2026-10-21T15:05:08+00:00",
-      "url": "https://www.nasa.gov/image-article/science-on-the-space-station-with-nasa-astronaut-jessica-watkins/",
-      "summary": "NASA astronaut and Expedition 75 flight engineer Jessica Watkins works inside the Kibo laboratory module’s Life Science Glovebox on Oct. 9, 2026, safely mixing living cell samples with a bioink and then filling a special cartridge",
-      "source": "NASA Space Station"
-    },
-    {
-      "title": "NASA’s CASALS Instrument Bridges Gaps in 3D Maps of Earth’s Surface",
-      "category": "Science",
-      "published": "2026-10-21T12:17:58+00:00",
-      "url": "https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/nasas-casals-instrument-bridges-gaps-in-3d-maps-of-earths-surface/",
-      "summary": "From orbit, today’s space-based laser instruments measure Earth’s forests and terrain one narrow line at a time. Between those lines are enormous gaps that include millions of acres of land scientists never directly measure. NASA’",
-      "source": "NASA Technology"
-    },
-    {
-      "title": "Extratropical Cyclone Whips Past Iceland",
-      "category": "Engineering",
-      "published": "2026-10-21T04:01:00+00:00",
-      "url": "https://science.nasa.gov/earth/earth-observatory/extratropical-cyclone-whips-past-iceland/",
-      "summary": "The powerful low-pressure system formed over the North Atlantic out of the remnants of Hurricane Isaias.",
-      "source": "NASA Technology"
     }
   ],
   "feed_success_count": 7,
   "feed_failure_count": 1,
   "image_of_day": {
-    "title": "Astronaut and Earth",
-    "url": "https://www.nasa.gov/image-detail/iss075e0253663/",
-    "image": "https://www.nasa.gov/wp-content/uploads/2026/11/iss075e0253663orig.jpg",
-    "published": "2026-11-03T16:38:00+00:00",
+    "title": "Hubble Reveals Cosmic Mystery",
+    "url": "https://www.nasa.gov/image-detail/full-res-for-display-1-3/",
+    "image": "https://www.nasa.gov/wp-content/uploads/2026/11/full-res-for-display-1.png",
+    "published": "2026-11-04T16:07:00+00:00",
     "caption": "NASA Image of the Day · NASA"
   }
 }
