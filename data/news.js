@@ -1,16 +1,80 @@
 window.NASA_NEWS = {
-  "updated_at": "2026-11-05T08:04:55+00:00",
+  "updated_at": "2026-11-06T08:09:22+00:00",
   "status": "updated",
   "sources": [
-    "NASA mission blogs",
-    "NASA Space Station",
-    "NASA Artemis",
-    "NASA Artemis missions",
+    "NASA Image of the Day",
     "NASA news",
+    "NASA Space Station",
     "NASA Technology",
-    "NASA Image of the Day"
+    "NASA Artemis missions",
+    "NASA Artemis",
+    "NASA mission blogs"
   ],
   "articles": [
+    {
+      "title": "APOD: 2026 November 6 – A Farewell to Swift",
+      "category": "Other",
+      "published": "2026-11-06T05:05:00+00:00",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-6-a-farewell-to-swift/",
+      "summary": "APOD Science APOD APOD: 2026 November 6 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our",
+      "source": "NASA news"
+    },
+    {
+      "title": "Taking a Gander at Utah’s Goosenecks",
+      "category": "Other",
+      "published": "2026-11-06T05:01:00+00:00",
+      "url": "https://science.nasa.gov/earth/earth-observatory/taking-a-gander-at-utahs-goosenecks/",
+      "summary": "The San Juan River has carved deep, improbably curvy meanders into the desert landscape.",
+      "source": "NASA news"
+    },
+    {
+      "title": "Spacewalkers Install Final Roll-Out Solar Array",
+      "category": "Space Station",
+      "published": "2026-11-05T20:52:33+00:00",
+      "url": "https://www.nasa.gov/blogs/spacestation/2026/11/05/spacewalkers-install-final-roll-out-solar-array/",
+      "summary": "NASA astronaut Anil Menon and CSA (Canadian Space Agency) astronaut Joshua Kutryk concluded their spacewalk outside the International Space Station at 3:35 p.m. EST.",
+      "source": "NASA mission blogs"
+    },
+    {
+      "title": "Midwestern City Lights",
+      "category": "Other",
+      "published": "2026-11-05T15:17:19+00:00",
+      "url": "https://www.nasa.gov/image-article/midwestern-city-lights/",
+      "summary": "City lights from the Midwestern United States to the East Coast sparkle across the landscape a couple of hours before sunrise on Oct. 18, 2026. Major urban areas visible in the photograph include Chicago, Illinois; Detroit, Michig",
+      "source": "NASA news"
+    },
+    {
+      "title": "NASA Astronauts to Answer Questions from Florida Students",
+      "category": "Other",
+      "published": "2026-11-05T15:11:25+00:00",
+      "url": "https://www.nasa.gov/learning-resources/nasa-astronauts-to-answer-questions-from-florida-students-2/",
+      "summary": "Students in Florida will hear from NASA astronauts Jessica Watkins and Luke Delaney as they answer prerecorded STEM questions while aboard the International Space Station. The Earth-to-space call will begin at 10:40 a.m. EST Tuesd",
+      "source": "NASA news"
+    },
+    {
+      "title": "Spacewalk Begins to Install Last Roll-Out Solar Array",
+      "category": "Space Station",
+      "published": "2026-11-05T13:44:35+00:00",
+      "url": "https://www.nasa.gov/blogs/spacestation/2026/11/05/spacewalk-begins-to-install-last-roll-out-solar-array/",
+      "summary": "CSA (Canadian Space Agency) astronaut Joshua Kutryk and NASA astronaut Anil Menon began a spacewalk at 8:36 a.m. EST outside the International Space Station airlock to install and deploy the eighth and final IROSA on the 3B channe",
+      "source": "NASA mission blogs"
+    },
+    {
+      "title": "Hubble Learns Galactic History From Stars",
+      "category": "Science",
+      "published": "2026-11-05T12:56:21+00:00",
+      "url": "https://science.nasa.gov/missions/hubble/hubble-learns-galactic-history-from-stars/",
+      "summary": "This Hubble image features the sparkling collection of stars named Messier 30 (M30), also called NGC 7099.",
+      "source": "NASA news"
+    },
+    {
+      "title": "Astronauts Suit Up for Final Power Upgrade Spacewalk",
+      "category": "Space Station",
+      "published": "2026-11-05T12:02:48+00:00",
+      "url": "https://www.nasa.gov/blogs/spacestation/2026/11/05/astronauts-suit-up-for-final-power-upgrade-spacewalk/",
+      "summary": "NASA is streaming live coverage as two astronauts prepare for a spacewalk outside the International Space Station. The spacewalk is scheduled to begin at approximately 8:30 a.m. EST and last about more than six and a half hours.",
+      "source": "NASA mission blogs"
+    },
     {
       "title": "APOD: 2026 November 5 – Enceladus in Silhouette",
       "category": "Other",
@@ -746,79 +810,15 @@ window.NASA_NEWS = {
       "url": "https://www.nasa.gov/blogs/spacestation/2026/10/23/advanced-research-spacewalk-preps-end-week-as-nasa-announces-artemis-status/",
       "summary": "The Expedition 75 crew worked on a 3D bioprinter and a levitation furnace at the end of the week to advance health and high-temperature physics. Two astronauts are also preparing for a spacewalk at the International Space Station ",
       "source": "NASA mission blogs"
-    },
-    {
-      "title": "APOD: 2026 October 23 – Andromeda in Southern Spring",
-      "category": "Other",
-      "published": "2026-10-23T04:05:00+00:00",
-      "url": "https://science.nasa.gov/image-article/apod-2026-october-23-andromeda-in-southern-spring/",
-      "summary": "APOD Science APOD APOD: 2026 October 23 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our f",
-      "source": "NASA news"
-    },
-    {
-      "title": "El Niño Then and Now",
-      "category": "Other",
-      "published": "2026-10-23T04:00:00+00:00",
-      "url": "https://science.nasa.gov/earth/earth-observatory/el-nino-then-and-now/",
-      "summary": "A 35-year satellite altimetry record lets scientists hold this year’s El Niño up against its strongest predecessors.",
-      "source": "NASA news"
-    },
-    {
-      "title": "NASA Invites Media to 2026 von Braun Space Exploration Symposium",
-      "category": "Other",
-      "published": "2026-10-22T21:39:58+00:00",
-      "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-2026-von-braun-space-exploration-symposium/",
-      "summary": "Members of the media are invited to join NASA at the 2026 von Braun Space Exploration Symposium from Monday, Oct. 26, to Wednesday, Oct. 28, at the University of Alabama in Huntsville. This year’s symposium is focused on humanity’",
-      "source": "NASA news"
-    },
-    {
-      "title": "Spiral’s Edge",
-      "category": "Other",
-      "published": "2026-10-22T21:35:38+00:00",
-      "url": "https://www.nasa.gov/image-article/spirals-edge/",
-      "summary": "This NASA Hubble Space Telescope image released on Oct. 16, 2026, features the edge-on, intermediate spiral galaxy NGC 1827, located roughly 37 million light-years away in the constellation Columba, the Dove. Hubble captured the i",
-      "source": "NASA news"
-    },
-    {
-      "title": "NASA’s Mike Lippert Takes Controls of X-59 for First Time",
-      "category": "Other",
-      "published": "2026-10-22T20:48:56+00:00",
-      "url": "https://www.nasa.gov/blogs/quesst/2026/10/22/nasas-mike-lippert-takes-controls-of-x-59-for-first-time/",
-      "summary": "NASA test pilot Mike Lippert put months of simulator training and ground preparation into practice, completing his first flight in the agency’s X-59 quiet supersonic research aircraft. Lippert took off Oct. 21 from NASA’s Armstron",
-      "source": "NASA mission blogs"
-    },
-    {
-      "title": "NASA’s Roman Space Telescope Enters Final Commissioning Phase",
-      "category": "Science",
-      "published": "2026-10-22T19:43:51+00:00",
-      "url": "https://science.nasa.gov/blogs/roman/2026/10/22/nasas-roman-space-telescope-enters-final-commissioning-phase/",
-      "summary": "NASA’s Nancy Grace Roman Space Telescope mission has now entered the science commissioning phase, having successfully completed a comprehensive checkout and refinement of the observatory and primary instrument performance. “We’ve ",
-      "source": "NASA mission blogs"
-    },
-    {
-      "title": "Busy Station Day with Bioprinting, Spacesuit Check, Robotics, and Photography",
-      "category": "Engineering",
-      "published": "2026-10-22T17:37:14+00:00",
-      "url": "https://www.nasa.gov/blogs/spacestation/2026/10/22/busy-station-day-with-bioprinting-spacesuit-check-robotics-and-photography/",
-      "summary": "The Expedition 75 crew had a busy day on Thursday bioprinting blood vessels and trying on a spacesuit aboard the International Space Station. The orbital residents also trained to use a pair of robotic arms and set up Earth photog",
-      "source": "NASA mission blogs"
-    },
-    {
-      "title": "NASA’s Hubble Charts Path for Roman with Gravitational Lenses",
-      "category": "Science",
-      "published": "2026-10-22T16:20:37+00:00",
-      "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-charts-path-for-roman-with-gravitational-lenses/",
-      "summary": "This observation is one of many gravitational lensing images taken by Hubble in preparation for science with the new Nancy Grace Roman Space Telescope.",
-      "source": "NASA news"
     }
   ],
   "feed_success_count": 7,
   "feed_failure_count": 1,
   "image_of_day": {
-    "title": "Hubble Reveals Cosmic Mystery",
-    "url": "https://www.nasa.gov/image-detail/full-res-for-display-1-3/",
-    "image": "https://www.nasa.gov/wp-content/uploads/2026/11/full-res-for-display-1.png",
-    "published": "2026-11-04T16:07:00+00:00",
+    "title": "Midwestern City Lights",
+    "url": "https://www.nasa.gov/image-detail/iss075e0227352/",
+    "image": "https://www.nasa.gov/wp-content/uploads/2026/11/iss075e0227352orig.jpg",
+    "published": "2026-11-05T15:23:00+00:00",
     "caption": "NASA Image of the Day · NASA"
   }
 };
