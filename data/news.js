@@ -1,16 +1,34 @@
 window.NASA_NEWS = {
-  "updated_at": "2026-11-06T08:09:22+00:00",
+  "updated_at": "2026-11-07T07:27:54+00:00",
   "status": "updated",
   "sources": [
-    "NASA Image of the Day",
-    "NASA news",
-    "NASA Space Station",
-    "NASA Technology",
-    "NASA Artemis missions",
-    "NASA Artemis",
-    "NASA mission blogs"
+    "NASA news"
   ],
   "articles": [
+    {
+      "title": "APOD: 2026 November 7 – De Gerlache-Kocher Massif",
+      "category": "Other",
+      "published": "2026-11-07T05:05:00+00:00",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-7-de-gerlache-kocher-massif/",
+      "summary": "APOD Science APOD APOD: 2026 November 7 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our f",
+      "source": "NASA news"
+    },
+    {
+      "title": "M30’s Sparkling Stars",
+      "category": "Science",
+      "published": "2026-11-06T16:23:41+00:00",
+      "url": "https://www.nasa.gov/image-article/m30s-sparkling-stars/",
+      "summary": "This NASA/ESA Hubble Space Telescope image released Nov. 5, 2026, provides a lesson in galactic history. The sparkling collection of stars is named Messier 30 (M30) after the French astronomer, Charles Messier, who cataloged M30 a",
+      "source": "NASA news"
+    },
+    {
+      "title": "Supercomputing Tech Demo Schedule",
+      "category": "Other",
+      "published": "2026-11-06T16:03:52+00:00",
+      "url": "https://science.nasa.gov/earth/supercomputing-tech-demo-schedule/",
+      "summary": "Supercomputing 2026 Join NASA in the Exhibit Hall (Booth #4038) for presentations by NASA experts. Full Tech Demo schedule below. TUESDAY, NOVEMBER 17 10:00 AMType-safe Templates in Fortran 2028Tom Clune10:30 AMType-safe Templates",
+      "source": "NASA news"
+    },
     {
       "title": "APOD: 2026 November 6 – A Farewell to Swift",
       "category": "Other",
@@ -786,34 +804,10 @@ window.NASA_NEWS = {
       "url": "https://www.nasa.gov/image-article/rs-25-engine-tests-at-nasa-stennis/",
       "summary": "Teams at NASA’s Stennis Space Center near Bay St. Louis, Mississippi tested RS-25 engine No. 10001 on Oct. 21, 2026. The hot fire test lasted for almost eight-and-a-half minutes (500 seconds), the same amount of time RS-25 engines",
       "source": "NASA news"
-    },
-    {
-      "title": "NASA’s Dragonfly Completes First Simulated Flight",
-      "category": "Other",
-      "published": "2026-10-23T18:44:14+00:00",
-      "url": "https://science.nasa.gov/blogs/dragonfly/2026/10/23/nasas-dragonfly-completes-first-simulated-flight/",
-      "summary": "Separated from its protective backshell, NASA’s Dragonfly rotorcraft autonomously speeds over the sand dunes of Titan. It scans the terrain below, searching for a safe place to land. When Dragonfly discovers a safe site, it turns,",
-      "source": "NASA mission blogs"
-    },
-    {
-      "title": "NASA, Virginia Launch Power Partnership for Energy Security",
-      "category": "Other",
-      "published": "2026-10-23T17:50:21+00:00",
-      "url": "https://www.nasa.gov/centers-and-facilities/langley/nasa-power-energy-partnership/",
-      "summary": "NASA is helping to foster long-term energy security in Virginia. NASA’s Langley Research Center in Hampton, Virginia, is partnering with the Virginia Department of Energy to support informed decisions for effective energy generati",
-      "source": "NASA news"
-    },
-    {
-      "title": "Advanced Research, Spacewalk Preps End Week as NASA Announces Artemis Status",
-      "category": "Artemis",
-      "published": "2026-10-23T16:11:23+00:00",
-      "url": "https://www.nasa.gov/blogs/spacestation/2026/10/23/advanced-research-spacewalk-preps-end-week-as-nasa-announces-artemis-status/",
-      "summary": "The Expedition 75 crew worked on a 3D bioprinter and a levitation furnace at the end of the week to advance health and high-temperature physics. Two astronauts are also preparing for a spacewalk at the International Space Station ",
-      "source": "NASA mission blogs"
     }
   ],
-  "feed_success_count": 7,
-  "feed_failure_count": 1,
+  "feed_success_count": 1,
+  "feed_failure_count": 7,
   "image_of_day": {
     "title": "Midwestern City Lights",
     "url": "https://www.nasa.gov/image-detail/iss075e0227352/",
