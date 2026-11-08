@@ -1,10 +1,40 @@
 {
-  "updated_at": "2026-11-07T07:27:54+00:00",
+  "updated_at": "2026-11-08T07:38:33+00:00",
   "status": "updated",
   "sources": [
-    "NASA news"
+    "NASA Image of the Day",
+    "NASA Space Station",
+    "NASA news",
+    "NASA mission blogs",
+    "NASA Artemis",
+    "NASA Technology",
+    "NASA Artemis missions"
   ],
   "articles": [
+    {
+      "title": "APOD: 2026 November 8 – Major Fireball Meteor",
+      "category": "Other",
+      "published": "2026-11-08T05:05:00+00:00",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-8-major-fireball-meteor/",
+      "summary": "APOD Science APOD APOD: 2026 November 8 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our f",
+      "source": "NASA news"
+    },
+    {
+      "title": "NASA Awards Moon Base Transportation, Technology, Science Projects",
+      "category": "Engineering",
+      "published": "2026-11-07T22:47:03+00:00",
+      "url": "https://www.nasa.gov/news-release/nasa-awards-moon-base-transportation-technology-science-projects/",
+      "summary": "NASA announced a suite of awards and mission updates on Saturday to expand the agency’s Moon Base exploration, science, and infrastructure capabilities. The investments will advance commercial robotic deliveries, a nuclear-powered",
+      "source": "NASA news"
+    },
+    {
+      "title": "NASA Seeks Next Generation of Explorers to Join Astronaut Corps",
+      "category": "Other",
+      "published": "2026-11-07T18:11:57+00:00",
+      "url": "https://www.nasa.gov/news-release/nasa-seeks-next-generation-of-explorers-to-join-astronaut-corps/",
+      "summary": "NASA is looking for the explorers who will help write the next chapter of human spaceflight. Applications are now open for the agency’s next class of astronauts, who will join NASA as America returns to the Moon, builds the Moon B",
+      "source": "NASA news"
+    },
     {
       "title": "APOD: 2026 November 7 – De Gerlache-Kocher Massif",
       "category": "Other",
@@ -12,6 +42,14 @@
       "url": "https://science.nasa.gov/image-article/apod-2026-november-7-de-gerlache-kocher-massif/",
       "summary": "APOD Science APOD APOD: 2026 November 7 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our f",
       "source": "NASA news"
+    },
+    {
+      "title": "Spacewalk Cleanup, Biomedical Science, and Maintenance Wrap Up Week",
+      "category": "Space Station",
+      "published": "2026-11-06T17:48:13+00:00",
+      "url": "https://www.nasa.gov/blogs/spacestation/2026/11/06/spacewalk-cleanup-biomedical-science-and-maintenance-wrap-up-week/",
+      "summary": "The seven Expedition 75 crew members cleaned up after a spacewalk, conducted biomedical assessments, and maintained orbital systems to wrap up a busy week aboard the International Space Station.",
+      "source": "NASA mission blogs"
     },
     {
       "title": "M30’s Sparkling Stars",
@@ -772,47 +810,15 @@
       "url": "https://www.nasa.gov/missions/artemis/nasas-artemis-iii-mission-to-test-future-moon-lander-operations/",
       "summary": "Before astronauts return to the lunar surface, NASA will first conduct one of the most ambitious and complex test missions in the agency’s history. Launching in 2027, Artemis III will send NASA astronauts Randy Bresnik, Frank Rubi",
       "source": "NASA news"
-    },
-    {
-      "title": "NASA’s Swift Mission Ends Ahead of Re-Entry",
-      "category": "Other",
-      "published": "2026-10-23T21:58:32+00:00",
-      "url": "https://science.nasa.gov/blogs/swift/2026/10/23/nasas-swift-mission-ends-ahead-of-re-entry/",
-      "summary": "NASA’s Swift has concluded operations, leaving behind a legacy of innovation and a treasure trove of science observations.",
-      "source": "NASA mission blogs"
-    },
-    {
-      "title": "NASA’s Swift Mission Ends, Leaves Behind Scientific Bonanza",
-      "category": "Other",
-      "published": "2026-10-23T21:51:19+00:00",
-      "url": "https://science.nasa.gov/missions/swift/nasas-swift-mission-ends/",
-      "summary": "NASA’s Neil Gehrels Swift Observatory has ended its science mission now that the spacecraft is orbiting less than 171 miles (275 kilometers) above Earth’s surface. The greater atmospheric drag at this height prevents the satellite",
-      "source": "NASA news"
-    },
-    {
-      "title": "NASA Shares Artemis Acceleration Plans for Moon Missions",
-      "category": "Artemis",
-      "published": "2026-10-23T20:15:28+00:00",
-      "url": "https://www.nasa.gov/blogs/missions/2026/10/23/nasa-shares-artemis-acceleration-plans-for-moon-missions/",
-      "summary": "In an update Friday, Oct. 23, NASA Administrator Jared Isaacman and other agency leaders provided the agency’s path forward to returning Americans to the lunar surface in 2028. The briefing included details about NASA’s Artemis II",
-      "source": "NASA Artemis"
-    },
-    {
-      "title": "RS-25 Engine Tests at NASA Stennis",
-      "category": "Other",
-      "published": "2026-10-23T18:57:04+00:00",
-      "url": "https://www.nasa.gov/image-article/rs-25-engine-tests-at-nasa-stennis/",
-      "summary": "Teams at NASA’s Stennis Space Center near Bay St. Louis, Mississippi tested RS-25 engine No. 10001 on Oct. 21, 2026. The hot fire test lasted for almost eight-and-a-half minutes (500 seconds), the same amount of time RS-25 engines",
-      "source": "NASA news"
     }
   ],
-  "feed_success_count": 1,
-  "feed_failure_count": 7,
+  "feed_success_count": 7,
+  "feed_failure_count": 1,
   "image_of_day": {
-    "title": "Midwestern City Lights",
-    "url": "https://www.nasa.gov/image-detail/iss075e0227352/",
-    "image": "https://www.nasa.gov/wp-content/uploads/2026/11/iss075e0227352orig.jpg",
-    "published": "2026-11-05T15:23:00+00:00",
+    "title": "M30's Sparkling Stars",
+    "url": "https://www.nasa.gov/image-detail/hubble-m30-potm2610a/",
+    "image": "https://www.nasa.gov/wp-content/uploads/2026/11/hubble-m30-potm2610a.jpg",
+    "published": "2026-11-06T16:28:00+00:00",
     "caption": "NASA Image of the Day · NASA"
   }
 }
