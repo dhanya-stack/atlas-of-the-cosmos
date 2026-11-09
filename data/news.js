@@ -1,14 +1,8 @@
 window.NASA_NEWS = {
-  "updated_at": "2026-11-08T07:38:33+00:00",
+  "updated_at": "2026-11-09T08:17:27+00:00",
   "status": "updated",
   "sources": [
-    "NASA Image of the Day",
-    "NASA Space Station",
-    "NASA news",
-    "NASA mission blogs",
-    "NASA Artemis",
-    "NASA Technology",
-    "NASA Artemis missions"
+    "NASA Space Station"
   ],
   "articles": [
     {
@@ -812,8 +806,8 @@ window.NASA_NEWS = {
       "source": "NASA news"
     }
   ],
-  "feed_success_count": 7,
-  "feed_failure_count": 1,
+  "feed_success_count": 1,
+  "feed_failure_count": 7,
   "image_of_day": {
     "title": "M30's Sparkling Stars",
     "url": "https://www.nasa.gov/image-detail/hubble-m30-potm2610a/",
