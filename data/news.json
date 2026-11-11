@@ -1,16 +1,72 @@
 {
-  "updated_at": "2026-11-10T08:35:59+00:00",
+  "updated_at": "2026-11-11T07:56:17+00:00",
   "status": "updated",
   "sources": [
     "NASA mission blogs",
-    "NASA Technology",
     "NASA Artemis",
-    "NASA news",
     "NASA Space Station",
     "NASA Artemis missions",
+    "NASA news",
+    "NASA Technology",
     "NASA Image of the Day"
   ],
   "articles": [
+    {
+      "title": "APOD: 2026 November 11 – NGC 4449: Small Galaxy, Big Impact",
+      "category": "Science",
+      "published": "2026-11-11T05:05:00+00:00",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-11-ngc-4449-small-galaxy-big-impact/",
+      "summary": "APOD Science APOD APOD: 2026 November 11 – NGC… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of ",
+      "source": "NASA news"
+    },
+    {
+      "title": "Water Surges Into Navajo Reservoir",
+      "category": "Other",
+      "published": "2026-11-11T05:01:00+00:00",
+      "url": "https://science.nasa.gov/earth/earth-observatory/water-surges-into-navajo-reservoir/",
+      "summary": "Rounds of heavy rain in the U.S. Southwest flooded rivers and rapidly raised New Mexico’s second-largest reservoir.",
+      "source": "NASA news"
+    },
+    {
+      "title": "Microbiology, Spacesuits, and Cargo Mission Preps Keep Crew Busy",
+      "category": "Other",
+      "published": "2026-11-10T19:31:40+00:00",
+      "url": "https://www.nasa.gov/blogs/spacestation/2026/11/10/microbiology-spacesuits-and-cargo-mission-preps-keep-crew-busy/",
+      "summary": "Microbiology and spacesuit maintenance kept the Expedition 75 crew busy aboard the International Space Station on Tuesday. The orbital residents are also preparing for upcoming cargo missions at the orbital outpost.",
+      "source": "NASA mission blogs"
+    },
+    {
+      "title": "NASA Invites Media, Public to Join Voyager 1 One-Light Day Activities",
+      "category": "Other",
+      "published": "2026-11-10T19:22:45+00:00",
+      "url": "https://www.nasa.gov/news-release/nasa-invites-media-public-to-join-voyager-1-one-light-day-activities/",
+      "summary": "Launched nearly 50 years ago in 1977, NASA’s Voyager 1 on Wednesday, Nov. 18 will have traveled one light-day from Earth, which is more than 16 billion miles (25.9 billion kilometers). Voyager 1 is the most distant human-made obje",
+      "source": "NASA news"
+    },
+    {
+      "title": "NASA to Welcome Expedition 74 Astronauts Home at Space Center Houston",
+      "category": "Space Station",
+      "published": "2026-11-10T18:06:33+00:00",
+      "url": "https://www.nasa.gov/news-release/nasa-to-welcome-expedition-74-astronauts-home-at-space-center-houston/",
+      "summary": "NASA will welcome home the Expedition 74 crew during a public event at Space Center Houston following their return from a long-duration mission aboard the International Space Station. NASA astronauts Jessica Meir, Jack Hathaway, a",
+      "source": "NASA news"
+    },
+    {
+      "title": "NASA Scientists Show How Gravitational Waves Can Reveal New Worlds",
+      "category": "Other",
+      "published": "2026-11-10T16:00:26+00:00",
+      "url": "https://science.nasa.gov/missions/lisa/gravitational-waves-can-reveal-new-worlds/",
+      "summary": "The LISA (Laser Interferometer Space Antenna) observatory, now in development, will detect gravitational waves, the tiny ripples in space-time caused by orbiting masses. Now two studies led by NASA astrophysicists show in new deta",
+      "source": "NASA news"
+    },
+    {
+      "title": "CHAPEA Crew Leaves a Mark",
+      "category": "Other",
+      "published": "2026-11-10T14:57:55+00:00",
+      "url": "https://www.nasa.gov/image-article/chapea-crew-leaves-a-mark/",
+      "summary": "The Crew Health and Performance Exploration Analog (CHAPEA) Mission 2 crew arranged photos around a boot print in the simulated Martian sand outside their habitat on Aug. 31, 2026. The crew recently exited their habitat on Saturda",
+      "source": "NASA news"
+    },
     {
       "title": "APOD: 2026 November 10 – Saturn Behind the Moon",
       "category": "Other",
@@ -754,71 +810,15 @@
       "url": "https://www.nasa.gov/image-article/nasas-neo-surveyor-sunshade/",
       "summary": "A technician inspects the large sunshade of NASA’s Near-Earth Object (NEO) Surveyor mission in this image released on Oct. 26, 2026. The sunshade structure, which stands 20 feet (6 meters) tall and measures 8 feet (2.4 meters) wid",
       "source": "NASA news"
-    },
-    {
-      "title": "How a Johnson Mentor Shapes the Next Generation of NASA Talent",
-      "category": "Other",
-      "published": "2026-10-27T07:07:51+00:00",
-      "url": "https://www.nasa.gov/general/how-a-johnson-mentor-shapes-the-next-generation-of-nasa-talent/",
-      "summary": "When Rice University student Malvika Bhardwaj asked her mentor Daniel Cohen, a Guidance, Navigation & Control (GN&C) engineer at NASA’s Johnson Space Center, whether he had time to keep teaching interns with his busy workload, he ",
-      "source": "NASA news"
-    },
-    {
-      "title": "APOD: 2026 October 27 – Noctilucent Clouds over Sweden",
-      "category": "Other",
-      "published": "2026-10-27T04:05:00+00:00",
-      "url": "https://science.nasa.gov/image-article/apod-2026-october-27-noctilucent-clouds-over-sweden/",
-      "summary": "APOD Science APOD APOD: 2026 October 27 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our f",
-      "source": "NASA news"
-    },
-    {
-      "title": "A-81 Reaches South Georgia",
-      "category": "Other",
-      "published": "2026-10-27T04:00:00+00:00",
-      "url": "https://science.nasa.gov/earth/earth-observatory/a-81-reaches-south-georgia/",
-      "summary": "The Antarctic iceberg made a relatively quick exit from the Weddell Sea, only to slow at the edge of a remote island’s underwater shelf.",
-      "source": "NASA news"
-    },
-    {
-      "title": "NASA’s Perseverance Views Dust at Neretva Vallis",
-      "category": "Mars",
-      "published": "2026-10-26T22:48:12+00:00",
-      "url": "https://science.nasa.gov/photojournal/nasas-perseverance-views-dust-at-neretva-vallis/",
-      "summary": "Description This 360-degree look at Neretva Vallis within Mars’ Jezero Crater was stitched together using 217 images acquired by the rover’s Mastcam-Z on May 20, 2024, the 1,155th Martian day, or sol, of the mission. While it is a",
-      "source": "NASA news"
-    },
-    {
-      "title": "NASA’s Perseverance Offers Clues to Protect Crews From Mars Dust",
-      "category": "Mars",
-      "published": "2026-10-26T21:07:28+00:00",
-      "url": "https://www.nasa.gov/missions/mars-2020-perseverance/nasas-perseverance-offers-clues-to-protect-crews-from-mars-dust/",
-      "summary": "Over 1,645 Martian days, NASA’s Perseverance Mars rover measured the fine and ultrafine Martian dust particles found clinging to samples of spacesuit materials that are carried aboard the rover, including some that are small enoug",
-      "source": "NASA news"
-    },
-    {
-      "title": "NEO Surveyor’s Sunshade Gets Inspected",
-      "category": "Other",
-      "published": "2026-10-26T20:53:13+00:00",
-      "url": "https://science.nasa.gov/photojournal/neo-surveyors-sunshade-gets-inspected/",
-      "summary": "Description The large sunshade of NASA’s Near-Earth Object (NEO) Surveyor is mounted on an assembly ring during inspections in a clean room at BAE Systems Space & Mission Systems in Boulder, Colorado, in July 2026. The sunshade st",
-      "source": "NASA news"
-    },
-    {
-      "title": "Solar Cells Inspected on NASA’s NEO Surveyor",
-      "category": "Science",
-      "published": "2026-10-26T20:52:24+00:00",
-      "url": "https://science.nasa.gov/photojournal/solar-cells-inspected-on-nasas-neo-surveyor/",
-      "summary": "Description The large sunshade of NASA’s Near-Earth Object (NEO) Surveyor mission is inspected by a technician at BAE Systems Space & Mission Systems in Boulder, Colorado, in late July. Built by Applied Aerospace in Stockton, Cali",
-      "source": "NASA news"
     }
   ],
   "feed_success_count": 7,
   "feed_failure_count": 1,
   "image_of_day": {
-    "title": "Astronauts Across Generations Share the Stage",
-    "url": "https://www.nasa.gov/image-detail/20261106-artemiscelebrationgala-sl1-4202/",
-    "image": "https://www.nasa.gov/wp-content/uploads/2026/11/20261106-artemiscelebrationgala-sl1-4202.jpg",
-    "published": "2026-11-09T16:57:00+00:00",
+    "title": "CHAPEA Crew Leaves a Mark",
+    "url": "https://www.nasa.gov/image-detail/photos-from-chapea-mission-2-arranged-around-boot-print/",
+    "image": "https://www.nasa.gov/wp-content/uploads/2026/11/jsc2026e425219orig.jpg",
+    "published": "2026-11-10T15:39:00+00:00",
     "caption": "NASA Image of the Day · NASA"
   }
 }
