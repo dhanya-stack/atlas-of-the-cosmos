@@ -1,16 +1,48 @@
 window.NASA_NEWS = {
-  "updated_at": "2026-11-11T07:56:17+00:00",
+  "updated_at": "2026-11-12T08:35:09+00:00",
   "status": "updated",
   "sources": [
     "NASA mission blogs",
-    "NASA Artemis",
     "NASA Space Station",
+    "NASA Artemis",
     "NASA Artemis missions",
     "NASA news",
     "NASA Technology",
     "NASA Image of the Day"
   ],
   "articles": [
+    {
+      "title": "APOD: 2026 November 12 – Moon, Venus and Spica Meet",
+      "category": "Other",
+      "published": "2026-11-12T05:05:00+00:00",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-12-moon-venus-and-spica-meet/",
+      "summary": "APOD Science APOD APOD: 2026 November 12 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our ",
+      "source": "NASA news"
+    },
+    {
+      "title": "Scotland’s Flow Country",
+      "category": "Other",
+      "published": "2026-11-12T05:01:00+00:00",
+      "url": "https://science.nasa.gov/earth/earth-observatory/scotlands-flow-country/",
+      "summary": "Blanket bogs in the Scottish Highlands store vast amounts of carbon.",
+      "source": "NASA news"
+    },
+    {
+      "title": "Curiosity Blog, Sols 5063-5069 Rocks and Chips",
+      "category": "Other",
+      "published": "2026-11-12T00:41:35+00:00",
+      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5063-5069-rocks-and-chips/",
+      "summary": "Written by William Farrand, Senior Research Scientist, Space Science Institute Earth planning date: Friday, Nov. 6, 2026 This week Curiosity has been completing its drill campaign at the “Nazca” drill hole. This is an area charact",
+      "source": "NASA news"
+    },
+    {
+      "title": "Honoring NASA’s X-59 Test Pilots on Veterans Day",
+      "category": "Other",
+      "published": "2026-11-11T14:00:00+00:00",
+      "url": "https://www.nasa.gov/blogs/quesst/2026/11/11/x-59-test-pilots-veterans-day/",
+      "summary": "Seasoned pilots, aerospace engineers, and U.S. military veterans, NASA’s X-59 test pilots bring decades of service, technical expertise, and flight experience to the agency’s Quesst mission. NASA X-59 pilots Jim “Clue” Less and Ni",
+      "source": "NASA mission blogs"
+    },
     {
       "title": "APOD: 2026 November 11 – NGC 4449: Small Galaxy, Big Impact",
       "category": "Science",
@@ -778,38 +810,6 @@ window.NASA_NEWS = {
       "url": "https://science.nasa.gov/blogs/notes-from-the-field/2026/10/27/adventures-in-wildfire-smoke-stratospheric-ballooning/",
       "summary": "The student ballooning team at the University of Minnesota Twin Cities went to work tracking the plume of a pyrocumulonimbus cloud.",
       "source": "NASA mission blogs"
-    },
-    {
-      "title": "NASA Invites Media to Crew Completion of Yearlong Mars Simulation",
-      "category": "Other",
-      "published": "2026-10-27T19:27:22+00:00",
-      "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-crew-completion-of-yearlong-mars-simulation/",
-      "summary": "The four volunteers who lived and worked in a simulated NASA Mars mission for more than a year will exit their habitat on Saturday, Oct. 31, after 378 days of isolation in a facility at the agency’s Johnson Space Center in Houston",
-      "source": "NASA news"
-    },
-    {
-      "title": "Spacewalk Preps, Robotics Jobs, and Science Duties Fill Tuesday Schedule",
-      "category": "Engineering",
-      "published": "2026-10-27T19:14:28+00:00",
-      "url": "https://www.nasa.gov/blogs/spacestation/2026/10/27/spacewalk-preps-robotics-jobs-and-science-duties-fill-tuesday-schedule/",
-      "summary": "Spacewalking tools and a pair of robotics jobs topped Tuesday’s schedule aboard the International Space Station. The Expedition 75 crew members also kept up their scientific duties configuring botany research hardware and setting ",
-      "source": "NASA mission blogs"
-    },
-    {
-      "title": "NASA’s UVEX Space Telescope Successfully Passes Key Milestone",
-      "category": "Science",
-      "published": "2026-10-27T17:59:30+00:00",
-      "url": "https://science.nasa.gov/blogs/uvex/2026/10/27/nasas-uvex-space-telescope-successfully-passes-key-milestone/",
-      "summary": "Agency officials have confirmed NASA’s UVEX space telescope after completing a technical and programmatic review known as Key Decision Point C.",
-      "source": "NASA mission blogs"
-    },
-    {
-      "title": "NASA’s Neo Surveyor Sunshade",
-      "category": "Other",
-      "published": "2026-10-27T17:58:57+00:00",
-      "url": "https://www.nasa.gov/image-article/nasas-neo-surveyor-sunshade/",
-      "summary": "A technician inspects the large sunshade of NASA’s Near-Earth Object (NEO) Surveyor mission in this image released on Oct. 26, 2026. The sunshade structure, which stands 20 feet (6 meters) tall and measures 8 feet (2.4 meters) wid",
-      "source": "NASA news"
     }
   ],
   "feed_success_count": 7,
