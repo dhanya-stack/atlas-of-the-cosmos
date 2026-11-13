@@ -1,14 +1,8 @@
 window.NASA_NEWS = {
-  "updated_at": "2026-11-12T08:35:09+00:00",
+  "updated_at": "2026-11-13T08:21:31+00:00",
   "status": "updated",
   "sources": [
-    "NASA mission blogs",
-    "NASA Space Station",
-    "NASA Artemis",
-    "NASA Artemis missions",
-    "NASA news",
-    "NASA Technology",
-    "NASA Image of the Day"
+    "NASA Space Station"
   ],
   "articles": [
     {
@@ -812,8 +806,8 @@ window.NASA_NEWS = {
       "source": "NASA mission blogs"
     }
   ],
-  "feed_success_count": 7,
-  "feed_failure_count": 1,
+  "feed_success_count": 1,
+  "feed_failure_count": 7,
   "image_of_day": {
     "title": "CHAPEA Crew Leaves a Mark",
     "url": "https://www.nasa.gov/image-detail/photos-from-chapea-mission-2-arranged-around-boot-print/",
