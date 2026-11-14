@@ -1,10 +1,112 @@
 {
-  "updated_at": "2026-11-13T08:21:31+00:00",
+  "updated_at": "2026-11-14T07:46:13+00:00",
   "status": "updated",
   "sources": [
-    "NASA Space Station"
+    "NASA mission blogs",
+    "NASA Artemis",
+    "NASA Space Station",
+    "NASA news",
+    "NASA Technology",
+    "NASA Artemis missions",
+    "NASA Image of the Day"
   ],
   "articles": [
+    {
+      "title": "Instruments on NASA’s Roman Space Telescope Get in Sync for Science",
+      "category": "Science",
+      "published": "2026-11-13T18:54:51+00:00",
+      "url": "https://science.nasa.gov/blogs/roman/2026/11/13/instruments-on-nasas-roman-space-telescope-get-in-sync-for-science/",
+      "summary": "NASA’s Nancy Grace Roman Space Telescope has completed a key milestone, bringing its instruments into precise alignment and moving the observatory another step closer to science operations. “Roman requires exquisite alignment beca",
+      "source": "NASA mission blogs"
+    },
+    {
+      "title": "Botany, Biomedicine, and Cargo Ops Wrap Up Week Aboard Station",
+      "category": "Other",
+      "published": "2026-11-13T18:00:58+00:00",
+      "url": "https://www.nasa.gov/blogs/spacestation/2026/11/13/botany-biomedicine-and-cargo-ops-wrap-up-week-aboard-station/",
+      "summary": "Space botany and biomedical research filled the scientific schedule aboard the International Space Station at the end of the week. Expedition 75 is also continuing to load a U.S. cargo spacecraft before its upcoming departure and ",
+      "source": "NASA mission blogs"
+    },
+    {
+      "title": "Outbursts from a Massive Star",
+      "category": "Science",
+      "published": "2026-11-13T16:39:33+00:00",
+      "url": "https://www.nasa.gov/image-article/outbursts-from-a-massive-star/",
+      "summary": "Using NASA’s Chandra X-ray Observatory, astronomers have discovered what is triggering repeated outbursts from a giant, unstable star located in the galaxy shown in this image released on Nov. 9, 2026. The volatile star, known as ",
+      "source": "NASA news"
+    },
+    {
+      "title": "Gemini Astronaut Photos Inspired Early Earth Observation Program",
+      "category": "Science",
+      "published": "2026-11-13T16:05:54+00:00",
+      "url": "https://www.nasa.gov/image-article/gemini-astronaut-photos-inspired-early-earth-observation-program/",
+      "summary": "Astronauts James A. Lovell Jr. and Edwin E. “Buzz” Aldrin Jr. orbited Earth from November 11 to 15, 1966, on Gemini XII, the final mission of NASA’s Gemini program. In addition to successfully completing rendezvous maneuvers and s",
+      "source": "NASA news"
+    },
+    {
+      "title": "APOD: 2026 November 13 – NGC 206 and the Star Clouds of Andromeda",
+      "category": "Science",
+      "published": "2026-11-13T05:05:00+00:00",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-13-ngc-206-and-the-star-clouds-of-andromeda/",
+      "summary": "APOD Science APOD APOD: 2026 November 13 – NGC… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of ",
+      "source": "NASA news"
+    },
+    {
+      "title": "A Global Rebound for Mangroves",
+      "category": "Other",
+      "published": "2026-11-13T05:01:00+00:00",
+      "url": "https://science.nasa.gov/earth/earth-observatory/a-global-rebound-for-mangroves/",
+      "summary": "After decades of decline, this ecologically significant type of forest is making a comeback.",
+      "source": "NASA news"
+    },
+    {
+      "title": "Crew Packs Dragon with Science and Cleans Spacesuits",
+      "category": "Science",
+      "published": "2026-11-12T22:07:49+00:00",
+      "url": "https://www.nasa.gov/blogs/spacestation/2026/11/12/dragon-science-spacesuits/",
+      "summary": "Expedition 75 had a busy shift on Thursday primarily focusing on packing a U.S. cargo craft for its upcoming departure and cleaning a pair of spacesuits. Thursday’s research topics aboard the International Space Station included s",
+      "source": "NASA mission blogs"
+    },
+    {
+      "title": "I Am Artemis Katie Spicer",
+      "category": "Artemis",
+      "published": "2026-11-12T20:10:02+00:00",
+      "url": "https://www.nasa.gov/missions/artemis/i-am-artemis-katie-spicer/",
+      "summary": "For Katie Spicer, embracing opportunity and challenge has led to giant leaps during her time at NASA. Now as the NASA lander integration lead for Blue Origin’s Blue Moon Mark 2 lander, one of the commercially provided human landin",
+      "source": "NASA news"
+    },
+    {
+      "title": "Heart in the Sky at NASA Kennedy",
+      "category": "Other",
+      "published": "2026-11-12T19:12:49+00:00",
+      "url": "https://www.nasa.gov/image-article/heart-in-the-sky-at-nasa-kennedy/",
+      "summary": "The U.S. Air Force Thunderbirds create a heart-shaped smoke trail during a flight maneuver near NASA’s Vehicle Assembly Building during the agency’s MAX POWER expo and air show on Sunday, Nov. 8, 2026, at NASA’s Kennedy Space Cent",
+      "source": "NASA news"
+    },
+    {
+      "title": "NASA Ames Stars of the Month: November 2026",
+      "category": "Science",
+      "published": "2026-11-12T17:54:32+00:00",
+      "url": "https://www.nasa.gov/general/nasa-ames-stars-of-the-month-november-2026/",
+      "summary": "The NASA Ames Science Directorate recognizes the outstanding contributions of (pictured left to right) Alyssa Villanueva, Steve Howell, and Samuel LeBlanc. Their commitment to the NASA mission represents the entrepreneurial spirit",
+      "source": "NASA news"
+    },
+    {
+      "title": "NASA’s Hubble Offers Cosmic Sampler of Targets for Roman",
+      "category": "Science",
+      "published": "2026-11-12T13:18:40+00:00",
+      "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-offers-cosmic-sampler-of-targets-for-roman/",
+      "summary": "A gallery of gravitational lenses captured by NASA’s Hubble Space Telescope showcases the diversity of this cosmic phenomenon and lays the groundwork for follow-up observations by the Nancy Grace Roman Space Telescope.",
+      "source": "NASA news"
+    },
+    {
+      "title": "Through NASA’s Lens: Capturing Space Shuttle Endeavour’s Move to LA",
+      "category": "Other",
+      "published": "2026-11-12T13:00:00+00:00",
+      "url": "https://www.nasa.gov/centers-and-facilities/armstrong/through-nasas-lens-capturing-space-shuttle-endeavours-move-to-la/",
+      "summary": "As a new exhibit opens showcasing NASA’s space shuttle Endeavour, NASA photographers look back at the final mission. These photographers documented the iconic images shared around the world on Sept. 21, 2012, while millions watche",
+      "source": "NASA news"
+    },
     {
       "title": "APOD: 2026 November 12 – Moon, Venus and Spica Meet",
       "category": "Other",
@@ -708,111 +810,15 @@
       "url": "https://www.nasa.gov/centers-and-facilities/jpl/caltech-names-artemis-ii-commander-reid-wiseman-as-nasa-jpl-deputy/",
       "summary": "Artemis II Commander Reid Wiseman has been named Caltech associate vice president and deputy director of NASA’s Jet Propulsion Laboratory in Southern California. The emeritus astronaut and retired U.S. Navy captain begins his new ",
       "source": "NASA news"
-    },
-    {
-      "title": "NASA Welcomes Vietnam as Newest Artemis Accords Signatory",
-      "category": "Artemis",
-      "published": "2026-10-28T21:50:01+00:00",
-      "url": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-vietnam-as-newest-artemis-accords-signatory/",
-      "summary": "The Socialist Republic of Vietnam became the 78th nation to sign the Artemis Accords, joining a growing coalition of like-minded nations committed to the peaceful, transparent, and responsible exploration of space. “Vietnam is joi",
-      "source": "NASA news"
-    },
-    {
-      "title": "NASA Celebrates a Year of Progress Since First X-59 Flight",
-      "category": "Other",
-      "published": "2026-10-28T19:24:28+00:00",
-      "url": "https://www.nasa.gov/blogs/quesst/2026/10/28/nasa-celebrates-a-year-of-progress-since-first-x-59-flight/",
-      "summary": "One year ago, NASA’s Quesst mission made history with the first flight of the X-59 quiet supersonic research aircraft. Since then, the X-59 has completed 40 additional flights, marking a year of steady progress for the program. Wh",
-      "source": "NASA mission blogs"
-    },
-    {
-      "title": "Artemis III SLS Core Stage Joins Boosters at Kennedy",
-      "category": "Artemis",
-      "published": "2026-10-28T18:59:44+00:00",
-      "url": "https://www.nasa.gov/image-article/artemis-iii-sls-core-stage-joins-boosters-at-kennedy/",
-      "summary": "NASA’s Artemis III SLS (Space Launch System) core stage is integrated alongside the twin solid rocket boosters on Oct. 28 inside the Vehicle Assembly Building’s High Bay 3 at NASA’s Kennedy Space Center in Florida. Technicians lif",
-      "source": "NASA news"
-    },
-    {
-      "title": "NASA University Challenge Ignites Trajectory of Drone Entrepreneur",
-      "category": "Other",
-      "published": "2026-10-28T18:00:28+00:00",
-      "url": "https://www.nasa.gov/aeronautics/nasa-challenge-drone-entrepreneur/",
-      "summary": "Five years ago, Gavin Gardner was a Michigan State University engineering student researching next-generation drone technology as part of a NASA grant. Garder expected the research to be demanding – but he was surprised that navig",
-      "source": "NASA news"
-    },
-    {
-      "title": "Astronauts Are Go For Thursday’s Power Upgrade Spacewalk",
-      "category": "Space Station",
-      "published": "2026-10-28T16:30:27+00:00",
-      "url": "https://www.nasa.gov/blogs/spacestation/2026/10/28/astronauts-are-go-for-thursdays-power-upgrade-spacewalk/",
-      "summary": "Mission managers have given the go for Thursday’s spacewalk to install a new roll-out solar array on the International Space Station’s port-side truss structure.",
-      "source": "NASA mission blogs"
-    },
-    {
-      "title": "NASA Selects 19 New Citizen Science Proposals in 2026",
-      "category": "Science",
-      "published": "2026-10-28T16:25:29+00:00",
-      "url": "https://science.nasa.gov/get-involved/citizen-science/nasa-selects-19-new-citizen-science-proposals-in-2026/",
-      "summary": "So far, 2026 has seen a flood of successes for volunteers who do NASA science, exemplifying NASA’s commitment to gold-standard science—transparent, reproducible and intrinsically collaborative. The Backyard Worlds: Planet 9 projec",
-      "source": "NASA news"
-    },
-    {
-      "title": "Webb Sees Turbulent Star Nursery",
-      "category": "Science",
-      "published": "2026-10-28T15:33:10+00:00",
-      "url": "https://www.nasa.gov/image-article/webb-sees-turbulent-star-nursery/",
-      "summary": "In this Webb image released on Oct. 22, 2026, we see a turbulent cauldron of star formation filled with dense clumps of gas. This region is named N159 and is located 161,000 light-years away in the Large Magellanic Cloud, one of t",
-      "source": "NASA news"
-    },
-    {
-      "title": "NASA’s Lucy Reaches Trojan Asteroid Region 5 Years After Launch",
-      "category": "Science",
-      "published": "2026-10-28T14:11:21+00:00",
-      "url": "https://science.nasa.gov/blogs/lucy/2026/10/28/nasas-lucy-reaches-trojan-asteroid-region-5-years-after-launch/",
-      "summary": "Having traveled more than 2.2 billion miles since it launched on Oct. 16, 2021, NASA’s Lucy is the first spacecraft to enter a region of primitive solar-system bodies known as the Jupiter Trojan asteroids.",
-      "source": "NASA mission blogs"
-    },
-    {
-      "title": "Curiosity Blog, Sols 5043-5049: Preparing to Drill at ‘Nazca’",
-      "category": "Other",
-      "published": "2026-10-28T05:39:46+00:00",
-      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5043-5049-preparing-to-drill-at-nazca/",
-      "summary": "Written by Lucy Lim, Planetary Scientist at NASA’s Goddard Space Flight Center Earth planning date: Friday, Oct. 16, 2026 Following the Basque Lakes drill campaign, Curiosity has returned to a spot just a few meters away from the ",
-      "source": "NASA news"
-    },
-    {
-      "title": "APOD: 2026 October 28 – The Mutual Occultation of Ganymede and Io",
-      "category": "Other",
-      "published": "2026-10-28T04:05:00+00:00",
-      "url": "https://science.nasa.gov/image-article/apod-2026-october-28-the-mutual-occultation-of-ganymede-and-io/",
-      "summary": "APOD Science APOD APOD: 2026 October 28 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of o",
-      "source": "NASA news"
-    },
-    {
-      "title": "The Land of the Standing-Up Rocks",
-      "category": "Other",
-      "published": "2026-10-28T04:01:00+00:00",
-      "url": "https://science.nasa.gov/earth/earth-observatory/the-land-of-the-standing-up-rocks/",
-      "summary": "A national monument since the 1920s, Chiricahua is America’s newest national park.",
-      "source": "NASA news"
-    },
-    {
-      "title": "Adventures in Wildfire Smoke Stratospheric Ballooning",
-      "category": "Other",
-      "published": "2026-10-27T20:38:25+00:00",
-      "url": "https://science.nasa.gov/blogs/notes-from-the-field/2026/10/27/adventures-in-wildfire-smoke-stratospheric-ballooning/",
-      "summary": "The student ballooning team at the University of Minnesota Twin Cities went to work tracking the plume of a pyrocumulonimbus cloud.",
-      "source": "NASA mission blogs"
     }
   ],
-  "feed_success_count": 1,
-  "feed_failure_count": 7,
+  "feed_success_count": 7,
+  "feed_failure_count": 1,
   "image_of_day": {
-    "title": "CHAPEA Crew Leaves a Mark",
-    "url": "https://www.nasa.gov/image-detail/photos-from-chapea-mission-2-arranged-around-boot-print/",
-    "image": "https://www.nasa.gov/wp-content/uploads/2026/11/jsc2026e425219orig.jpg",
-    "published": "2026-11-10T15:39:00+00:00",
+    "title": "Outbursts from a Massive Star",
+    "url": "https://www.nasa.gov/image-detail/a-giant-star-in-a-distant-galaxy-has-been-mysteriously-erupting-for-at-least-15-years-new-data-from-nasas-chandra-explains-what-is-causing-these-huge-outbursts/",
+    "image": "https://www.nasa.gov/wp-content/uploads/2026/11/at2016blu.jpg",
+    "published": "2026-11-13T16:41:00+00:00",
     "caption": "NASA Image of the Day · NASA"
   }
 }
