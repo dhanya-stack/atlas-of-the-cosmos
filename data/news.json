@@ -1,16 +1,104 @@
 {
-  "updated_at": "2026-11-16T08:12:21+00:00",
+  "updated_at": "2026-11-17T09:27:20+00:00",
   "status": "updated",
   "sources": [
-    "NASA mission blogs",
-    "NASA Space Station",
-    "NASA news",
+    "NASA Image of the Day",
     "NASA Artemis",
+    "NASA mission blogs",
+    "NASA news",
     "NASA Artemis missions",
-    "NASA Technology",
-    "NASA Image of the Day"
+    "NASA Space Station",
+    "NASA Technology"
   ],
   "articles": [
+    {
+      "title": "APOD: 2026 November 17 – Milky Way versus Aurora",
+      "category": "Other",
+      "published": "2026-11-17T05:05:00+00:00",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-17-milky-way-versus-aurora/",
+      "summary": "APOD Science APOD APOD: 2026 November 17 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our ",
+      "source": "NASA news"
+    },
+    {
+      "title": "Tossing Fireworks from Cloud to Cloud",
+      "category": "Other",
+      "published": "2026-11-17T05:01:00+00:00",
+      "url": "https://science.nasa.gov/earth/earth-observatory/tossing-fireworks-from-cloud-to-cloud/",
+      "summary": "For many astronauts, the spectacular sight of lightning stands out when looking back at Earth from the International Space Station.",
+      "source": "NASA news"
+    },
+    {
+      "title": "Perseverance Update: The Ghostly Rocks of ‘Idubi’ — Bright Remnants of Aqueous Systems from Long Ago",
+      "category": "Mars",
+      "published": "2026-11-16T23:12:45+00:00",
+      "url": "https://science.nasa.gov/blog/perseverance-update-the-ghostly-rocks-of-idubi-bright-remnants-of-aqueous-systems-from-long-ago/",
+      "summary": "Written by Candice Bedford, Research Scientist at Purdue University Date: Nov. 16, 2026 During the Perseverance rover’s investigation of “Idubi” — an area of ancient Martian crust exposed in the “Lac de Charmes” region, outside of",
+      "source": "NASA news"
+    },
+    {
+      "title": "Biotechnology, Spacesuit Work, and Dragon Packing Start Week Aboard Station",
+      "category": "Engineering",
+      "published": "2026-11-16T22:24:06+00:00",
+      "url": "https://www.nasa.gov/blogs/spacestation/2026/11/16/biotechnology-spacesuit-work-and-dragon-packing-start-week-aboard-station/",
+      "summary": "Biotechnology research including growing human lung cells and managing blood flow in space awaited the Expedition 75 crew on Monday. Spacesuit checks, cargo packing, and Earth observations rounded out the busy schedule aboard the ",
+      "source": "NASA mission blogs"
+    },
+    {
+      "title": "A Collage Showing 49 Drill Holes Made by NASA’s Curiosity Mars Rover",
+      "category": "Mars",
+      "published": "2026-11-16T22:05:23+00:00",
+      "url": "https://science.nasa.gov/photojournal/a-collage-showing-49-drill-holes-made-by-nasas-curiosity-mars-rover/",
+      "summary": "Description This collage shows 49 drill holes captured by NASA’s Curiosity Mars rover as of November 2026. Each hole represents a sample collected from rocks on the Martian surface; Curiosity’s drill, located on the end of its rob",
+      "source": "NASA news"
+    },
+    {
+      "title": "NASA Receives 16th Consecutive ‘Clean’ Financial Audit Opinion",
+      "category": "Other",
+      "published": "2026-11-16T20:30:40+00:00",
+      "url": "https://www.nasa.gov/news-release/nasa-receives-16th-consecutive-clean-financial-audit-opinion/",
+      "summary": "For the 16th consecutive year, NASA has received an unmodified, or “clean,” opinion from an external auditor on its fiscal year 2026 financial statements. The rating is the best possible audit opinion, certifying that NASA’s finan",
+      "source": "NASA news"
+    },
+    {
+      "title": "Sentinel-6B in Orbit Around Earth",
+      "category": "Science",
+      "published": "2026-11-16T18:52:32+00:00",
+      "url": "https://science.nasa.gov/photojournal/sentinel-6b-in-orbit-around-earth/",
+      "summary": "Description This artist’s concept shows the Sentinel-6B satellite, which will become the reference satellite for other missions studying sea surface height.",
+      "source": "NASA news"
+    },
+    {
+      "title": "Thunderbirds in Formation",
+      "category": "Other",
+      "published": "2026-11-16T18:34:47+00:00",
+      "url": "https://www.nasa.gov/image-article/thunderbirds-in-formation/",
+      "summary": "U.S. Air Force Thunderbirds fighter jets pass overhead during the agency’s MAX POWER expo and air show on Saturday, Nov. 7, 2026, at NASA’s Kennedy Space Center in Florida. NASA’s inaugural MAX POWER was an aerospace festival cele",
+      "source": "NASA news"
+    },
+    {
+      "title": "NASA Payload to Study Gamma Rays Arrives at Northrop Grumman",
+      "category": "Other",
+      "published": "2026-11-16T18:31:57+00:00",
+      "url": "https://science.nasa.gov/blogs/cosi/2026/11/16/nasa-payload-to-study-gamma-rays-arrives-at-northrop-grumman/",
+      "summary": "The scientific payload for NASA’s upcoming COSI mission arrived at Northrop Grumman’s satellite manufacturing facility in Sterling, Virginia, earlier this month.",
+      "source": "NASA mission blogs"
+    },
+    {
+      "title": "NASA, European Sea Level Satellite Prepped for New Role",
+      "category": "Other",
+      "published": "2026-11-16T17:39:25+00:00",
+      "url": "https://science.nasa.gov/blogs/sentinel-6/2026/11/16/nasa-european-sea-level-satellite-prepped-for-new-role/",
+      "summary": "As of Oct. 30, the Sentinel-6B satellite has been calibrated to serve as the world’s go-to data source on sea level rise. The satellite has now passed all its initial system checks to ensure that its data meets the strictest quali",
+      "source": "NASA mission blogs"
+    },
+    {
+      "title": "Contractor to Civil Servant: NASA Welcomes Jim Mirandy",
+      "category": "Other",
+      "published": "2026-11-16T15:22:09+00:00",
+      "url": "https://www.nasa.gov/centers-and-facilities/stennis/contractor-to-civil-servant-jim-mirandy/",
+      "summary": "The rumble of a rocket engine might be considered a soundtrack for Jim Mirandy’s life. Mirandy has grown up with NASA as a constant presence, and his path to becoming a civil servant at NASA’s Stennis Space Center near Bay St. Lou",
+      "source": "NASA news"
+    },
     {
       "title": "APOD: 2026 November 16 – NGC 7129: Star Formation with Jets from Webb",
       "category": "Science",
@@ -722,103 +810,15 @@
       "url": "https://science.nasa.gov/image-article/apod-2026-october-30-haunting-the-cepheus-flare/",
       "summary": "APOD Science APOD APOD: 2026 October 30 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our f",
       "source": "NASA news"
-    },
-    {
-      "title": "Vega Island Frozen in Fright",
-      "category": "Other",
-      "published": "2026-10-30T04:01:00+00:00",
-      "url": "https://science.nasa.gov/earth/earth-observatory/vega-island-frozen-in-fright/",
-      "summary": "The sight of an icy skull-like visage on the Antarctic island could make one’s blood run cold.",
-      "source": "NASA news"
-    },
-    {
-      "title": "Map Showing Potential Origins of Martian Meteorite Teghaza 001",
-      "category": "Other",
-      "published": "2026-10-30T00:07:39+00:00",
-      "url": "https://science.nasa.gov/photojournal/map-showing-potential-origins-of-martian-meteorite-teghaza-001/",
-      "summary": "Description This global map of Mars shows 13 locations that match the mineralogy and chemistry of Teghaza 001, one of the most ancient Martian meteorites ever found on Earth. While scientists can never know for sure where a Martia",
-      "source": "NASA news"
-    },
-    {
-      "title": "Slice of Martian Meteorite Teghaza 001",
-      "category": "Other",
-      "published": "2026-10-29T23:32:35+00:00",
-      "url": "https://science.nasa.gov/photojournal/slice-of-martian-meteorite-teghaza-001/",
-      "summary": "Description This slice of Teghaza 001, one of the most ancient Martian meteorites ever found on Earth, was used to determine the age of the rock. Reflected light images like these serve as a scientist’s road map, helping them find",
-      "source": "NASA news"
-    },
-    {
-      "title": "Halloween Aboard the International Space Station",
-      "category": "Space Station",
-      "published": "2026-10-29T21:44:23+00:00",
-      "url": "https://www.nasa.gov/centers-and-facilities/johnson/halloween-aboard-the-international-space-station/",
-      "summary": "Although no ghouls, goblins, or trick-or-treaters come knocking at the International Space Station’s front hatch, crew members aboard the orbiting laboratory still like to get in the Halloween spirit. Whether individually or as an",
-      "source": "NASA news"
-    },
-    {
-      "title": "Spacewalkers Install Roll-Out Solar Array for Power Generation",
-      "category": "Space Station",
-      "published": "2026-10-29T19:17:00+00:00",
-      "url": "https://www.nasa.gov/blogs/spacestation/2026/10/29/spacewalkers-install-roll-out-solar-arrays-for-power-generation/",
-      "summary": "NASA astronaut Anil Menon and CSA (Canadian Space Agency) astronNASA astronaut Anil Menon and CSA (Canadian Space Agency) astronaut Joshua Kutryk concluded their spacewalk outside the International Space Station at 3:08 p.m. EDT.",
-      "source": "NASA mission blogs"
-    },
-    {
-      "title": "NASA’s TRACERS First Results Offers Peek into Violent Magnetic Process",
-      "category": "Other",
-      "published": "2026-10-29T18:15:07+00:00",
-      "url": "https://science.nasa.gov/blogs/tracers/2026/10/29/nasas-tracers-first-results-offers-peek-into-violent-magnetic-process/",
-      "summary": "NASA’s TRACERS (Tandem Reconnection and Cusp Electrodynamics Reconnaissance Satellites) mission has gathered its first clues to how space weather affects Earth’s magnetic field. In a new paper, researchers break down how these int",
-      "source": "NASA mission blogs"
-    },
-    {
-      "title": "NASA’s Voyager 1 Conserves Power, Resolves Brief Communications Pause",
-      "category": "Other",
-      "published": "2026-10-29T17:30:08+00:00",
-      "url": "https://science.nasa.gov/blogs/voyager/2026/10/29/nasas-voyager-1-conserves-power-resolves-brief-communications-pause/",
-      "summary": "NASA’s Voyager team is celebrating two recent developments with the Voyager 1 spacecraft: In September, they successfully completed a months-long effort to stretch the spacecraft’s diminishing power supply. Then, on Oct. 20, an un",
-      "source": "NASA mission blogs"
-    },
-    {
-      "title": "NASA Funding Helps Virginia Assess Oyster Loss From Recent Algae Bloom",
-      "category": "Other",
-      "published": "2026-10-29T12:48:46+00:00",
-      "url": "https://science.nasa.gov/blogs/science-news/2026/10/29/nasa-virginia-oyster-loss-algae-bloom/",
-      "summary": "NASA-funded researchers are helping Virginia officials assess the impacts of a harmful algal bloom on oyster farms along the Chesapeake Bay’s Eastern Shore.",
-      "source": "NASA mission blogs"
-    },
-    {
-      "title": "Astronauts Begin Spacewalk to Install Roll-Out Solar Arrays",
-      "category": "Space Station",
-      "published": "2026-10-29T12:02:14+00:00",
-      "url": "https://www.nasa.gov/blogs/spacestation/2026/10/29/astronauts-begin-spacewalk-to-install-roll-out-solar-arrays-2/",
-      "summary": "NASA astronaut Anil Menon and CSA (Canadian Space Agency) astronaut Joshua Kutryk began a spacewalk at 7:57 a.m. EDT outside the International Space Station airlock to install and deploy an International Space Station Roll-Out Sol",
-      "source": "NASA mission blogs"
-    },
-    {
-      "title": "Astronauts Suit Up to Prepare for Power Upgrade Spacewalk",
-      "category": "Space Station",
-      "published": "2026-10-29T10:32:26+00:00",
-      "url": "https://www.nasa.gov/blogs/spacestation/2026/10/29/astronauts-suit-up-to-prepare-for-power-upgrade-spacewalk/",
-      "summary": "NASA is streaming live coverage as two astronauts prepare for a spacewalk outside the International Space Station.",
-      "source": "NASA mission blogs"
-    },
-    {
-      "title": "APOD: 29 October 2026 – The Horns of Venus",
-      "category": "Other",
-      "published": "2026-10-29T04:05:00+00:00",
-      "url": "https://science.nasa.gov/image-article/apod-29-october-2026-the-horns-of-venus/",
-      "summary": "APOD Science APOD APOD: 29 October 2026 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of o",
-      "source": "NASA news"
     }
   ],
   "feed_success_count": 7,
   "feed_failure_count": 1,
   "image_of_day": {
-    "title": "Outbursts from a Massive Star",
-    "url": "https://www.nasa.gov/image-detail/a-giant-star-in-a-distant-galaxy-has-been-mysteriously-erupting-for-at-least-15-years-new-data-from-nasas-chandra-explains-what-is-causing-these-huge-outbursts/",
-    "image": "https://www.nasa.gov/wp-content/uploads/2026/11/at2016blu.jpg",
-    "published": "2026-11-13T16:41:00+00:00",
+    "title": "Thunderbirds in Formation",
+    "url": "https://www.nasa.gov/image-detail/11072026-ksc-max-power-airdotshow-2orig/",
+    "image": "https://www.nasa.gov/wp-content/uploads/2026/11/11072026-ksc-max-power-airdotshow-2orig.jpg",
+    "published": "2026-11-16T18:35:00+00:00",
     "caption": "NASA Image of the Day · NASA"
   }
 }
