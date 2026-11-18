@@ -1,16 +1,120 @@
 {
-  "updated_at": "2026-11-17T09:27:20+00:00",
+  "updated_at": "2026-11-18T08:45:44+00:00",
   "status": "updated",
   "sources": [
-    "NASA Image of the Day",
-    "NASA Artemis",
     "NASA mission blogs",
+    "NASA Artemis",
+    "NASA Space Station",
     "NASA news",
     "NASA Artemis missions",
-    "NASA Space Station",
-    "NASA Technology"
+    "NASA Technology",
+    "NASA Image of the Day"
   ],
   "articles": [
+    {
+      "title": "NASA, SpaceX Stand Down from Dragon’s Undocking on Wednesday",
+      "category": "Other",
+      "published": "2026-11-18T06:44:57+00:00",
+      "url": "https://www.nasa.gov/blogs/spacestation/2026/11/18/nasa-spacex-stand-down-from-dragons-undocking-on-wednesday/",
+      "summary": "NASA and SpaceX are standing down from Wednesday's Dragon undocking opportunity from the International Space Station due to unfavorable weather conditions at the splashdown sites off the coast of California.",
+      "source": "NASA mission blogs"
+    },
+    {
+      "title": "APOD: 2026 November 18 – An M-class Solar Flare",
+      "category": "Science",
+      "published": "2026-11-18T05:05:00+00:00",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-18-an-m-class-solar-flare/",
+      "summary": "APOD Science APOD APOD: 2026 November 18 – An… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of o",
+      "source": "NASA news"
+    },
+    {
+      "title": "Sierra Snow Season Spins Up",
+      "category": "Other",
+      "published": "2026-11-18T05:01:00+00:00",
+      "url": "https://science.nasa.gov/earth/earth-observatory/sierra-snow-season-spins-up/",
+      "summary": "A widespread, early-season snowstorm blanketed California’s mountains in white in mid-November 2026.",
+      "source": "NASA news"
+    },
+    {
+      "title": "NASA Launches Nuclear Power Systems Student Contest",
+      "category": "Other",
+      "published": "2026-11-17T22:02:48+00:00",
+      "url": "https://science.nasa.gov/centers-and-facilities/glenn/nasa-launches-nuclear-power-systems-student-contest/",
+      "summary": "NASA’s Power to Explore Student Challenge kicked off Tuesday, Nov. 17. The science, engineering, technology, and mathematics (STEM) challenge invites kindergarten through 12th grade students in the United States to learn about spa",
+      "source": "NASA news"
+    },
+    {
+      "title": "NASA Space Apps Challenge Breaks Global Hackathon Records",
+      "category": "Other",
+      "published": "2026-11-17T21:50:34+00:00",
+      "url": "https://science.nasa.gov/open-science/nasa-space-apps-challenge-breaks-global-hackathon-records/",
+      "summary": "On Nov. 14 and 15, NASA held the annual Space Apps Challenge with a record-breaking 181,835 registered participants taking part in 593 events around the world. The annual hackathon invites participants to use NASA’s open data to a",
+      "source": "NASA news"
+    },
+    {
+      "title": "BPS Digital AVATAR Challenge",
+      "category": "Other",
+      "published": "2026-11-17T20:39:38+00:00",
+      "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/bps-digital-avatar-challenge/",
+      "summary": "The NASA Space Biology Program within the Biological and Physical Sciences (BPS) Division investigates how living systems respond across the full spectrum of biological organization to advance understanding of how living systems r",
+      "source": "NASA news"
+    },
+    {
+      "title": "New Album of Baby Star Sounds Shared by NASA’s Chandra",
+      "category": "Science",
+      "published": "2026-11-17T20:26:17+00:00",
+      "url": "https://science.nasa.gov/missions/chandra/new-album-of-baby-star-sounds-shared-by-nasas-chandra/",
+      "summary": "A new album from NASA’s Chandra X-ray Observatory collects snapshots of baby stars across the galaxy and beyond and transforms that data into sound. Four new sonifications use data of stars that are actively forming, captured by C",
+      "source": "NASA news"
+    },
+    {
+      "title": "Cardiac Research, Exercise Studies on Station Keeping Crews Healthy",
+      "category": "Other",
+      "published": "2026-11-17T19:28:52+00:00",
+      "url": "https://www.nasa.gov/blogs/spacestation/2026/11/17/cardiac-research-exercise-studies-on-station-keeping-crews-healthy/",
+      "summary": "Cardiac research and space exercise were the main experiments for the Expedition 75 crew members on Tuesday. The International Space Station residents are also preparing scientific samples for return to Earth.",
+      "source": "NASA mission blogs"
+    },
+    {
+      "title": "NASA to Cover 35th SpaceX Resupply Mission Space Station Departure",
+      "category": "Space Station",
+      "published": "2026-11-17T19:16:22+00:00",
+      "url": "https://www.nasa.gov/news-release/nasa-to-cover-35th-spacex-resupply-mission-space-station-departure/",
+      "summary": "NASA and its international partners are set to receive scientific research samples and hardware as a SpaceX Dragon spacecraft departs the International Space Station no earlier than Wednesday, Nov. 18, for its return to Earth. Pen",
+      "source": "NASA Space Station"
+    },
+    {
+      "title": "NICER Status Updates",
+      "category": "Space Station",
+      "published": "2026-11-17T18:18:16+00:00",
+      "url": "https://www.nasa.gov/missions/station/nicer-status-updates/",
+      "summary": "November 17, 2026 NASA’s NICER Telescope Ends Science Operations After studying the universe for six and a half years beyond its initial mission, NASA’s NICER (Neutron star Interior Composition Explorer) telescope on the Internati",
+      "source": "NASA Space Station"
+    },
+    {
+      "title": "NASA’s Terra Mission to End",
+      "category": "Other",
+      "published": "2026-11-17T17:50:37+00:00",
+      "url": "https://science.nasa.gov/blogs/science-news/2026/11/17/nasas-terra-mission-to-end/",
+      "summary": "After 27 years of providing insights into Earth’s interconnected atmosphere, lands, oceans, and biology, NASA’s Terra satellite will stop collecting science data on Dec. 1. Terra, a workhorse of the Earth Observing System, was des",
+      "source": "NASA mission blogs"
+    },
+    {
+      "title": "NASA to Conduct Low-Altitude Flights Over Texas Farmland",
+      "category": "Other",
+      "published": "2026-11-17T17:12:20+00:00",
+      "url": "https://www.nasa.gov/general/nasa-to-conduct-low-altitude-flights-over-texas-farmland/",
+      "summary": "Editor’s Note: This article was originally published on Oct. 15, 2026, and has been updated to correct the location and update the duration of the flight deployment. A NASA Dynamic Aviation A200 aircraft will conduct low-flying re",
+      "source": "NASA news"
+    },
+    {
+      "title": "Curiosity Blog, Sols 5072-5076: The Return of the Polygons",
+      "category": "Other",
+      "published": "2026-11-17T17:06:07+00:00",
+      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5072-5076-the-return-of-the-polygons/",
+      "summary": "Written by Abigail Fraeman, Deputy Project Scientist, Jet Propulsion Laboratory, California Institute of Technology Earth planning date: Friday, Nov. 13, 2026 Curiosity’s past several weeks have been very focused on drilling and a",
+      "source": "NASA news"
+    },
     {
       "title": "APOD: 2026 November 17 – Milky Way versus Aurora",
       "category": "Other",
@@ -706,119 +810,15 @@
       "url": "https://science.nasa.gov/blogs/escapade/2026/11/02/nasas-twin-escapade-spacecraft-to-slingshot-past-earth-on-way-to-mars/",
       "summary": "In a few days, NASA’s ESCAPADE (Escape and Plasma Acceleration and Dynamics Explorers) will perform a maneuver that no agency spacecraft has flown before — and do it twice. Each of the two ESCAPADE spacecraft will execute a “power",
       "source": "NASA mission blogs"
-    },
-    {
-      "title": "NASA’s CHAPEA Crew “Returns” to Earth",
-      "category": "Science",
-      "published": "2026-11-02T18:50:42+00:00",
-      "url": "https://www.nasa.gov/image-article/nasas-chapea-crew-returns-to-earth/",
-      "summary": "The four-member Crew Health and Performance Exploration Analog (CHAPEA) crew poses outside for the first time in more than a year following the end of their simulated Mars journey on Oct. 31, 2026. Crew members Matthew Montgomery ",
-      "source": "NASA news"
-    },
-    {
-      "title": "NASA’s Swift Observatory to Re-Enter Atmosphere",
-      "category": "Other",
-      "published": "2026-11-02T17:59:53+00:00",
-      "url": "https://science.nasa.gov/blogs/swift/2026/11/02/nasas-swift-observatory-to-re-enter-atmosphere/",
-      "summary": "NASA’s Neil Gehrels Swift Observatory is expected to re-enter Earth’s atmosphere on Wednesday, Nov. 4, almost 22 years after launch. At launch, Swift was a first-of-its-kind multiwavelength observatory designed to study the most p",
-      "source": "NASA mission blogs"
-    },
-    {
-      "title": "NASA Invites Media to Northrop Grumman CRS-25 Station Resupply Launch",
-      "category": "Space Station",
-      "published": "2026-11-02T17:33:22+00:00",
-      "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-northrop-grumman-crs-25-station-resupply-launch/",
-      "summary": "Media accreditation is open for the next launch to deliver NASA science investigations, supplies, and equipment to the International Space Station. A Northrop Grumman Cygnus XL spacecraft will launch in November to the orbital lab",
-      "source": "NASA Space Station"
-    },
-    {
-      "title": "APOD: 2026 November 2 – A Long Cloud on Mars",
-      "category": "Other",
-      "published": "2026-11-02T05:05:00+00:00",
-      "url": "https://science.nasa.gov/image-article/apod-2026-november-2-a-long-cloud-on-mars/",
-      "summary": "APOD Science APOD APOD: 2026 November 2 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our",
-      "source": "NASA news"
-    },
-    {
-      "title": "Pennsylvania’s Grand Canyon",
-      "category": "Other",
-      "published": "2026-11-02T05:01:00+00:00",
-      "url": "https://science.nasa.gov/earth/earth-observatory/pennsylvanias-grand-canyon/",
-      "summary": "Amid the warm hues of fall foliage, Pine Creek Gorge forms a deep scar in the Allegheny Plateau.",
-      "source": "NASA news"
-    },
-    {
-      "title": "APOD: 2026 November 1 – Colors of the Moon",
-      "category": "Other",
-      "published": "2026-11-01T04:05:00+00:00",
-      "url": "https://science.nasa.gov/image-article/apod-2026-november-1-colors-of-the-moon/",
-      "summary": "APOD Science APOD APOD: 2026 November 1 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our f",
-      "source": "NASA news"
-    },
-    {
-      "title": "APOD: 2026 October 31 – Night on a Spooky Planet",
-      "category": "Science",
-      "published": "2026-10-31T04:05:00+00:00",
-      "url": "https://science.nasa.gov/image-article/apod-2026-october-31-night-on-a-spooky-planet/",
-      "summary": "APOD Science APOD APOD: 2026 October 31 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our f",
-      "source": "NASA news"
-    },
-    {
-      "title": "NASA Releases MAX POWER Key Events for Media, Participants",
-      "category": "Other",
-      "published": "2026-10-30T19:31:02+00:00",
-      "url": "https://www.nasa.gov/news-release/nasa-releases-max-power-key-events-for-media-participants/",
-      "summary": "America’s newest aerospace expo and air show – MAX POWER – is fast approaching, and NASA has announced key events beginning Friday, Nov. 6, and running through Sunday, Nov. 8, hosted on and near the agency’s Kennedy Space Center i",
-      "source": "NASA news"
-    },
-    {
-      "title": "Space Crops and Advanced Tech Wrap Up Week Following Spacewalk",
-      "category": "Space Station",
-      "published": "2026-10-30T17:50:49+00:00",
-      "url": "https://www.nasa.gov/blogs/spacestation/2026/10/30/space-crops-and-advanced-tech-wrap-up-week-following-spacewalk/",
-      "summary": "Space crops research wrapped up the week following the completion of the first of two power upgrade spacewalks at the International Space Station. The Expedition 75 crew members rounded out their research schedule with virtual rea",
-      "source": "NASA mission blogs"
-    },
-    {
-      "title": "NASA’s James Webb Space Telescope Captures Eerie Cat’s Head",
-      "category": "Science",
-      "published": "2026-10-30T15:56:26+00:00",
-      "url": "https://www.nasa.gov/image-article/nasas-james-webb-space-telescope-captures-eerie-cats-head/",
-      "summary": "Intricate structures within the Cat’s Head Nebula are illuminated in this mid-infrared view from NASA’s James Webb Space Telescope released on Oct. 29, 2026. The distinctive “cat’s head” shape of the nebula was likely sculpted ove",
-      "source": "NASA news"
-    },
-    {
-      "title": "NASA Explores Potential Commercial Servicing for Hubble Telescope",
-      "category": "Science",
-      "published": "2026-10-30T14:51:21+00:00",
-      "url": "https://science.nasa.gov/missions/hubble/nasa-explores-potential-commercial-servicing-for-hubble-telescope/",
-      "summary": "NASA issued a Request for Information Oct. 29 to learn more about industry capabilities for in-space servicing to support the agency’s Hubble Space Telescope.",
-      "source": "NASA news"
-    },
-    {
-      "title": "November’s Night Sky Notes: Light-Day Away",
-      "category": "Other",
-      "published": "2026-10-30T10:00:00+00:00",
-      "url": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/novembers-night-sky-notes-light-day-away/",
-      "summary": "Twin Travelers In 1977, NASA launched twin spacecraft Voyager 1 and 2, taking advantage of a once-every-175-year planetary alignment of the four largest planets in our solar system: Jupiter, Saturn, Uranus, and Neptune. Using six ",
-      "source": "NASA news"
-    },
-    {
-      "title": "APOD: 2026 October 30 – Haunting the Cepheus Flare",
-      "category": "Other",
-      "published": "2026-10-30T04:05:00+00:00",
-      "url": "https://science.nasa.gov/image-article/apod-2026-october-30-haunting-the-cepheus-flare/",
-      "summary": "APOD Science APOD APOD: 2026 October 30 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our f",
-      "source": "NASA news"
     }
   ],
   "feed_success_count": 7,
   "feed_failure_count": 1,
   "image_of_day": {
-    "title": "Thunderbirds in Formation",
-    "url": "https://www.nasa.gov/image-detail/11072026-ksc-max-power-airdotshow-2orig/",
-    "image": "https://www.nasa.gov/wp-content/uploads/2026/11/11072026-ksc-max-power-airdotshow-2orig.jpg",
-    "published": "2026-11-16T18:35:00+00:00",
+    "title": "Space Selfie",
+    "url": "https://www.nasa.gov/image-detail/iss075e0253155/",
+    "image": "https://www.nasa.gov/wp-content/uploads/2026/11/iss075e0253155orig.jpg",
+    "published": "2026-11-17T16:52:00+00:00",
     "caption": "NASA Image of the Day · NASA"
   }
 }
