@@ -1,16 +1,96 @@
 window.NASA_NEWS = {
-  "updated_at": "2026-11-19T09:00:02+00:00",
+  "updated_at": "2026-11-20T08:47:49+00:00",
   "status": "updated",
   "sources": [
-    "NASA mission blogs",
     "NASA Artemis",
-    "NASA Artemis missions",
+    "NASA mission blogs",
     "NASA Space Station",
-    "NASA Technology",
+    "NASA Artemis missions",
     "NASA news",
+    "NASA Technology",
     "NASA Image of the Day"
   ],
   "articles": [
+    {
+      "title": "APOD: 2026 November 20 – V-G-R",
+      "category": "Other",
+      "published": "2026-11-20T05:05:00+00:00",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-20-v-g-r/",
+      "summary": "APOD Science APOD APOD: 2026 November… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fasci",
+      "source": "NASA news"
+    },
+    {
+      "title": "The Stormy Southwest Pacific",
+      "category": "Other",
+      "published": "2026-11-20T05:01:00+00:00",
+      "url": "https://science.nasa.gov/earth/earth-observatory/the-stormy-southwest-pacific/",
+      "summary": "Tropical Cyclone Xavier launched the basin’s storm season with a bang.",
+      "source": "NASA news"
+    },
+    {
+      "title": "NASA Arizona Field Investigations Advance Planetary Science",
+      "category": "Science",
+      "published": "2026-11-19T21:18:36+00:00",
+      "url": "https://science.nasa.gov/blogs/planetary-expeditions/2026/11/19/nasa-arizona-field-investigations-advance-planetary-science/",
+      "summary": "To better understand processes shaping Earth, the Moon, Mars, and worlds beyond, NASA’s Goddard Instrument Field Team headed to Flagstaff, Arizona.",
+      "source": "NASA mission blogs"
+    },
+    {
+      "title": "Science and Suits Fill Schedule as Crew Preps for Cargo Missions",
+      "category": "Science",
+      "published": "2026-11-19T21:02:23+00:00",
+      "url": "https://www.nasa.gov/blogs/spacestation/2026/11/19/science-and-suits-fill-schedule-as-crew-preps-for-cargo-missions/",
+      "summary": "The Expedition 75 crew spent Thursday on a variety of research including an exercise study and a space physics investigation and servicing spacesuits. The orbital residents are also gearing up for a variety of cargo missions depar",
+      "source": "NASA mission blogs"
+    },
+    {
+      "title": "Challenge: Public Input on Life and the World in 2075",
+      "category": "Other",
+      "published": "2026-11-19T19:34:20+00:00",
+      "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/challenge-public-input-on-life-and-the-world-in-2075/",
+      "summary": "NASA’s Transformational Tools and Technologies (TTT) is gathering public perspectives on life today and how the world may change by 2075. This challenge asks for conceptual ideas about life in 2075 across four challenge topics. Id",
+      "source": "NASA news"
+    },
+    {
+      "title": "NASA’s Perseverance, Odyssey Teams Investigate Technical Issues",
+      "category": "Mars",
+      "published": "2026-11-19T18:51:54+00:00",
+      "url": "https://science.nasa.gov/blogs/mars/2026/11/19/nasas-perseverance-odyssey-teams-investigate-technical-issues/",
+      "summary": "NASA teams supporting the agency’s Perseverance Mars rover and 2001 Mars Odyssey orbiter missions are investigating separate technical issues affecting science operations on the two missions. Out of an abundance of caution, scienc",
+      "source": "NASA mission blogs"
+    },
+    {
+      "title": "NASA Science Data Powers New Method to Discover Hard-to-Find Pulsars",
+      "category": "Science",
+      "published": "2026-11-19T15:33:55+00:00",
+      "url": "https://science.nasa.gov/open-science/fermi-data-pulsar-discovery/",
+      "summary": "Open data from NASA’s Fermi mission helped an international team of scientists develop a method for finding pulsars about a million times faster than before.",
+      "source": "NASA news"
+    },
+    {
+      "title": "Lake Pelku",
+      "category": "Space Station",
+      "published": "2026-11-19T15:32:39+00:00",
+      "url": "https://www.nasa.gov/image-article/lake-pelku/",
+      "summary": "An astronaut on the International Space Station captured this photograph of Lake Pelku (near center) as the station orbited above Asia. The International Space Station serves as a unique platform for observing Earth with both hand",
+      "source": "NASA Space Station"
+    },
+    {
+      "title": "NASA Conducts Latest RS-25 Engine Test in Support of Future Artemis Missions",
+      "category": "Artemis",
+      "published": "2026-11-19T14:44:39+00:00",
+      "url": "https://www.nasa.gov/image-article/latest-rs-25-engine-test-in-support-of-future-artemis-missions/",
+      "summary": "NASA tested RS-25 engine No. 10001 on Nov. 18 on the Fred Haise Test Stand at NASA’s Stennis Space Center near Bay St. Louis, Mississippi. Test teams fired the developmental engine for the planned duration of three minutes and 20 ",
+      "source": "NASA news"
+    },
+    {
+      "title": "NASA’s Voyager 1 Makes History Reaching One Light-Day From Earth",
+      "category": "Science",
+      "published": "2026-11-19T14:31:15+00:00",
+      "url": "https://www.nasa.gov/news-release/nasas-voyager-1-makes-history-reaching-one-light-day-from-earth/",
+      "summary": "NASA’s Voyager 1 probe, humanity’s farthest-flying spacecraft, has reached one light-day from Earth, after more than 49 years of constant travel. A light-day is the distance light travels in 24 hours, equaling about 16.1 billion m",
+      "source": "NASA news"
+    },
     {
       "title": "APOD: 2026 November 19 – The Horsehead and Flame Nebulas",
       "category": "Other",
@@ -730,95 +810,15 @@ window.NASA_NEWS = {
       "url": "https://www.nasa.gov/blogs/spacestation/2026/11/05/astronauts-suit-up-for-final-power-upgrade-spacewalk/",
       "summary": "NASA is streaming live coverage as two astronauts prepare for a spacewalk outside the International Space Station. The spacewalk is scheduled to begin at approximately 8:30 a.m. EST and last about more than six and a half hours.",
       "source": "NASA mission blogs"
-    },
-    {
-      "title": "APOD: 2026 November 5 – Enceladus in Silhouette",
-      "category": "Other",
-      "published": "2026-11-05T05:05:00+00:00",
-      "url": "https://science.nasa.gov/image-article/apod-2026-november-5-enceladus-in-silhouette/",
-      "summary": "APOD Science APOD APOD: 2026 November 5 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our f",
-      "source": "NASA news"
-    },
-    {
-      "title": "Cyprus: Island of Snakes, Cats, and Ophiolites",
-      "category": "Other",
-      "published": "2026-11-05T05:01:00+00:00",
-      "url": "https://science.nasa.gov/earth/earth-observatory/cyprus-island-of-snakes-cats-and-ophiolites/",
-      "summary": "The third-largest island in the Mediterranean Sea exposes an ancient piece of the ocean floor and hosts a clowder of cats.",
-      "source": "NASA news"
-    },
-    {
-      "title": "NASA Announces X-70 Experimental Aircraft to Advance Flight Research",
-      "category": "Other",
-      "published": "2026-11-05T01:43:21+00:00",
-      "url": "https://www.nasa.gov/news-release/nasa-announces-x-70-experimental-aircraft-to-advance-flight-research/",
-      "summary": "On Wednesday, NASA unveiled its newest experimental aircraft, the X-70 Fractal, during the UP.Summit at the agency’s Kennedy Space Center in Florida. This high-performance, highly adaptable research platform is designed to acceler",
-      "source": "NASA news"
-    },
-    {
-      "title": "NASA Shares Plans to Accelerate Artemis, Return to Moon",
-      "category": "Artemis",
-      "published": "2026-11-04T21:04:10+00:00",
-      "url": "https://www.nasa.gov/missions/artemis/nasa-shares-plans-to-accelerate-artemis-return-to-moon/",
-      "summary": "In an update on Oct. 23, NASA Administrator Jared Isaacman and other agency leaders shared the agency’s path to returning Americans to the lunar surface in 2028. Agency leadership provided updates on the previously announced accel",
-      "source": "NASA Artemis missions"
-    },
-    {
-      "title": "NASA Announces Ka-Band Satellite Relay Awards for Space Communications",
-      "category": "Other",
-      "published": "2026-11-04T18:00:02+00:00",
-      "url": "https://www.nasa.gov/news-release/nasa-announces-ka-band-satellite-relay-awards-for-space-communications/",
-      "summary": "NASA selected three companies on Wednesday to perform work to develop Ka-band space relay capability concepts that are compatible with current missions in space, ensuring service continuity for existing spacecraft without requirin",
-      "source": "NASA news"
-    },
-    {
-      "title": "NASA Navigation Experiment Shows Promise for Planetary Landings",
-      "category": "Science",
-      "published": "2026-11-04T16:52:43+00:00",
-      "url": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-navigation-experiment-shows-promise-for-planetary-landings/",
-      "summary": "NASA successfully demonstrated technology designed to help spacecraft autonomously navigate to safe landing sites on the Moon and on other planets. An Alta-X drone equipped with the agency’s Safe and Precise Landing – Integrated C",
-      "source": "NASA news"
-    },
-    {
-      "title": "NASA Space Grant Students Fuel Agency’s Inspiration Tour",
-      "category": "Other",
-      "published": "2026-11-04T16:16:41+00:00",
-      "url": "https://www.nasa.gov/learning-resources/nasa-space-grant-students-fuel-agencys-inspiration-tour/",
-      "summary": "NASA’s Inspiration Tour spread the excitement of space exploration and aeronautical innovation by connecting the public, industry, and academia with the people, technologies, and organizations that drive American leadership in spa",
-      "source": "NASA news"
-    },
-    {
-      "title": "Astronauts are Go for Final Power Upgrade Spacewalk",
-      "category": "Space Station",
-      "published": "2026-11-04T16:00:58+00:00",
-      "url": "https://www.nasa.gov/blogs/spacestation/2026/11/04/astronauts-are-go-for-final-power-upgrade-spacewalk/",
-      "summary": "Mission managers have given the go for two astronauts to exit the International Space Station on Thursday and install its eighth and final roll-out solar array. The Expedition 75 crew members completed final preparations for the s",
-      "source": "NASA mission blogs"
-    },
-    {
-      "title": "Hubble Reveals Cosmic Mystery",
-      "category": "Science",
-      "published": "2026-11-04T15:59:36+00:00",
-      "url": "https://www.nasa.gov/image-article/hubble-reveals-cosmic-mystery/",
-      "summary": "This photo released on Nov. 2, 2026, showcases NGC 4449, a dwarf irregular. Researchers using NASA’s Hubble Space Telescope studied 37 nearby dwarf galaxies — small galaxies containing a few thousand to hundreds of millions of sta",
-      "source": "NASA news"
-    },
-    {
-      "title": "Solar Flare Alert System Helps NASA Rocket Team Decide When to Launch",
-      "category": "Science",
-      "published": "2026-11-04T15:05:17+00:00",
-      "url": "https://science.nasa.gov/blogs/science-news/2026/11/04/solar-flare-alert-system-helps-nasa-rocket-team-decide-when-to-launch/",
-      "summary": "For the first time, scientists have used NASA sounding rockets to study a solar flare in progress, thanks to a new flare alert system that told the team when to launch. Solar flares accelerate particles and release energy into the",
-      "source": "NASA mission blogs"
     }
   ],
   "feed_success_count": 7,
   "feed_failure_count": 1,
   "image_of_day": {
-    "title": "Empire State Building Goes Gold for Voyager",
-    "url": "https://www.nasa.gov/image-detail/nasas-voyager-1-spacecraft-light-day/",
-    "image": "https://www.nasa.gov/wp-content/uploads/2026/11/55658604092-c6f0765cc5-o.jpg",
-    "published": "2026-11-18T17:52:00+00:00",
+    "title": "Lake Pelku",
+    "url": "https://www.nasa.gov/image-detail/iss075e0267074/",
+    "image": "https://www.nasa.gov/wp-content/uploads/2026/11/iss075e0267074orig.jpg",
+    "published": "2026-11-19T15:33:00+00:00",
     "caption": "NASA Image of the Day · NASA"
   }
 };
