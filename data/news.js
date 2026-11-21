@@ -1,16 +1,72 @@
 window.NASA_NEWS = {
-  "updated_at": "2026-11-20T08:47:49+00:00",
+  "updated_at": "2026-11-21T08:29:27+00:00",
   "status": "updated",
   "sources": [
-    "NASA Artemis",
     "NASA mission blogs",
+    "NASA Artemis",
     "NASA Space Station",
-    "NASA Artemis missions",
     "NASA news",
+    "NASA Artemis missions",
     "NASA Technology",
     "NASA Image of the Day"
   ],
   "articles": [
+    {
+      "title": "APOD: 2026 November 21 – Voyager’s Neptune",
+      "category": "Other",
+      "published": "2026-11-21T05:05:00+00:00",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-21-voyagers-neptune/",
+      "summary": "APOD Science APOD APOD: 2026 November 21 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our ",
+      "source": "NASA news"
+    },
+    {
+      "title": "Curiosity Spots Drifting Twilight Clouds",
+      "category": "Other",
+      "published": "2026-11-20T22:27:05+00:00",
+      "url": "https://science.nasa.gov/photojournal/curiosity-spots-drifting-twilight-clouds/",
+      "summary": "Description NASA’s Curiosity Mars rover captured these drifting clouds on Oct. 31, 2026, the 5,061st Martian day, or sol, of the mission. The rover uses its navigation cameras to capture post-sunset clouds, called twilight clouds,",
+      "source": "NASA news"
+    },
+    {
+      "title": "New NASA Seed Funding Primes Small Businesses for Innovation",
+      "category": "Other",
+      "published": "2026-11-20T20:46:14+00:00",
+      "url": "https://www.nasa.gov/directorates/rtmd/new-nasa-seed-funding-primes-small-businesses-for-innovation/",
+      "summary": "Awards to small businesses around the country are addressing some of NASA’s most crucial technology needs for exploration of the Moon and Mars while fueling the U.S. space economy. NASA’s Small Business Innovation Research/Small B",
+      "source": "NASA news"
+    },
+    {
+      "title": "Dragon Undocks from Station Packed With Science and Cargo",
+      "category": "Science",
+      "published": "2026-11-20T17:08:20+00:00",
+      "url": "https://www.nasa.gov/blogs/general-blog/2026/11/20/dragon-undocks-from-station-packed-with-science-and-cargo/",
+      "summary": "At 12:05 p.m. EST, the unpiloted SpaceX Dragon spacecraft undocked from the space-facing port of the International Space Station's Harmony module following a command from SpaceX ground controllers.",
+      "source": "NASA mission blogs"
+    },
+    {
+      "title": "Dragon Prepares to Depart Station for Earth Return",
+      "category": "Science",
+      "published": "2026-11-20T16:47:19+00:00",
+      "url": "https://www.nasa.gov/blogs/general-blog/2026/11/20/dragon-prepares-to-depart-station-for-earth-return/",
+      "summary": "The unpiloted SpaceX Dragon spacecraft will undock at approximately 12:05 p.m. EST from the space-facing port of the station’s Harmony module and fire its thrusters to move safely away from the orbital complex.",
+      "source": "NASA mission blogs"
+    },
+    {
+      "title": "NASA Honor Awards Ceremony Recognizes Employees at Stennis Space Center",
+      "category": "Other",
+      "published": "2026-11-20T16:27:46+00:00",
+      "url": "https://www.nasa.gov/centers-and-facilities/stennis/honor-awards-ceremony-at-stennis/",
+      "summary": "Employees contributing to NASA’s mission at the agency’s Stennis Space Center near Bay St. Louis, Mississippi, were recognized during the center’s Honor Awards ceremony on Nov. 18. Presenting the awards were Christine Powell, NASA",
+      "source": "NASA news"
+    },
+    {
+      "title": "NASA’s Curiosity Mars Rover Collects Samples",
+      "category": "Mars",
+      "published": "2026-11-20T15:53:24+00:00",
+      "url": "https://www.nasa.gov/image-article/nasas-curiosity-mars-rover-collects-samples/",
+      "summary": "This Nov. 16 collage shows 49 drill holes captured by NASA’s Curiosity Mars rover as of November 2026. Each hole represents a sample collected from rocks on the Martian surface; Curiosity’s drill, located on the end of its robotic",
+      "source": "NASA news"
+    },
     {
       "title": "APOD: 2026 November 20 – V-G-R",
       "category": "Other",
@@ -754,71 +810,15 @@ window.NASA_NEWS = {
       "url": "https://science.nasa.gov/image-article/apod-2026-november-6-a-farewell-to-swift/",
       "summary": "APOD Science APOD APOD: 2026 November 6 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our",
       "source": "NASA news"
-    },
-    {
-      "title": "Taking a Gander at Utah’s Goosenecks",
-      "category": "Other",
-      "published": "2026-11-06T05:01:00+00:00",
-      "url": "https://science.nasa.gov/earth/earth-observatory/taking-a-gander-at-utahs-goosenecks/",
-      "summary": "The San Juan River has carved deep, improbably curvy meanders into the desert landscape.",
-      "source": "NASA news"
-    },
-    {
-      "title": "Spacewalkers Install Final Roll-Out Solar Array",
-      "category": "Space Station",
-      "published": "2026-11-05T20:52:33+00:00",
-      "url": "https://www.nasa.gov/blogs/spacestation/2026/11/05/spacewalkers-install-final-roll-out-solar-array/",
-      "summary": "NASA astronaut Anil Menon and CSA (Canadian Space Agency) astronaut Joshua Kutryk concluded their spacewalk outside the International Space Station at 3:35 p.m. EST.",
-      "source": "NASA mission blogs"
-    },
-    {
-      "title": "Midwestern City Lights",
-      "category": "Other",
-      "published": "2026-11-05T15:17:19+00:00",
-      "url": "https://www.nasa.gov/image-article/midwestern-city-lights/",
-      "summary": "City lights from the Midwestern United States to the East Coast sparkle across the landscape a couple of hours before sunrise on Oct. 18, 2026. Major urban areas visible in the photograph include Chicago, Illinois; Detroit, Michig",
-      "source": "NASA news"
-    },
-    {
-      "title": "NASA Astronauts to Answer Questions from Florida Students",
-      "category": "Other",
-      "published": "2026-11-05T15:11:25+00:00",
-      "url": "https://www.nasa.gov/learning-resources/nasa-astronauts-to-answer-questions-from-florida-students-2/",
-      "summary": "Students in Florida will hear from NASA astronauts Jessica Watkins and Luke Delaney as they answer prerecorded STEM questions while aboard the International Space Station. The Earth-to-space call will begin at 10:40 a.m. EST Tuesd",
-      "source": "NASA news"
-    },
-    {
-      "title": "Spacewalk Begins to Install Last Roll-Out Solar Array",
-      "category": "Space Station",
-      "published": "2026-11-05T13:44:35+00:00",
-      "url": "https://www.nasa.gov/blogs/spacestation/2026/11/05/spacewalk-begins-to-install-last-roll-out-solar-array/",
-      "summary": "CSA (Canadian Space Agency) astronaut Joshua Kutryk and NASA astronaut Anil Menon began a spacewalk at 8:36 a.m. EST outside the International Space Station airlock to install and deploy the eighth and final IROSA on the 3B channe",
-      "source": "NASA mission blogs"
-    },
-    {
-      "title": "Hubble Learns Galactic History From Stars",
-      "category": "Science",
-      "published": "2026-11-05T12:56:21+00:00",
-      "url": "https://science.nasa.gov/missions/hubble/hubble-learns-galactic-history-from-stars/",
-      "summary": "This Hubble image features the sparkling collection of stars named Messier 30 (M30), also called NGC 7099.",
-      "source": "NASA news"
-    },
-    {
-      "title": "Astronauts Suit Up for Final Power Upgrade Spacewalk",
-      "category": "Space Station",
-      "published": "2026-11-05T12:02:48+00:00",
-      "url": "https://www.nasa.gov/blogs/spacestation/2026/11/05/astronauts-suit-up-for-final-power-upgrade-spacewalk/",
-      "summary": "NASA is streaming live coverage as two astronauts prepare for a spacewalk outside the International Space Station. The spacewalk is scheduled to begin at approximately 8:30 a.m. EST and last about more than six and a half hours.",
-      "source": "NASA mission blogs"
     }
   ],
   "feed_success_count": 7,
   "feed_failure_count": 1,
   "image_of_day": {
-    "title": "Lake Pelku",
-    "url": "https://www.nasa.gov/image-detail/iss075e0267074/",
-    "image": "https://www.nasa.gov/wp-content/uploads/2026/11/iss075e0267074orig.jpg",
-    "published": "2026-11-19T15:33:00+00:00",
+    "title": "NASA's Curiosity Mars Rover Collects Samples",
+    "url": "https://www.nasa.gov/image-detail/pia26804/",
+    "image": "https://www.nasa.gov/wp-content/uploads/2026/11/pia26804.jpg",
+    "published": "2026-11-20T15:54:00+00:00",
     "caption": "NASA Image of the Day · NASA"
   }
 };
