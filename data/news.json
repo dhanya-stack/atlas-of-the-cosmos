@@ -1,16 +1,32 @@
 {
-  "updated_at": "2026-11-21T08:29:27+00:00",
+  "updated_at": "2026-11-22T08:22:38+00:00",
   "status": "updated",
   "sources": [
+    "NASA Space Station",
     "NASA mission blogs",
     "NASA Artemis",
-    "NASA Space Station",
     "NASA news",
-    "NASA Artemis missions",
     "NASA Technology",
+    "NASA Artemis missions",
     "NASA Image of the Day"
   ],
   "articles": [
+    {
+      "title": "APOD: 2026 November 22 – Swirls and Colors on Jupiter from Juno",
+      "category": "Other",
+      "published": "2026-11-22T05:05:00+00:00",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-22-swirls-and-colors-on-jupiter-from-juno/",
+      "summary": "APOD Science APOD APOD: 2026 November 22 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our ",
+      "source": "NASA news"
+    },
+    {
+      "title": "Dragon Returns to Earth Packed With Science and Cargo",
+      "category": "Science",
+      "published": "2026-11-21T22:10:07+00:00",
+      "url": "https://www.nasa.gov/blogs/spacestation/2026/11/21/dragon-returns-to-earth-packed-with-science-and-cargo/",
+      "summary": "At 2:03 p.m. PST, the unpiloted SpaceX Dragon spacecraft splashed down in the Pacific Ocean near Los Angeles, completing NASA's 35th SpaceX commercial resupply services mission to the International Space Station.",
+      "source": "NASA mission blogs"
+    },
     {
       "title": "APOD: 2026 November 21 – Voyager’s Neptune",
       "category": "Other",
@@ -793,22 +809,6 @@
       "published": "2026-11-06T16:23:41+00:00",
       "url": "https://www.nasa.gov/image-article/m30s-sparkling-stars/",
       "summary": "This NASA/ESA Hubble Space Telescope image released Nov. 5, 2026, provides a lesson in galactic history. The sparkling collection of stars is named Messier 30 (M30) after the French astronomer, Charles Messier, who cataloged M30 a",
-      "source": "NASA news"
-    },
-    {
-      "title": "Supercomputing Tech Demo Schedule",
-      "category": "Other",
-      "published": "2026-11-06T16:03:52+00:00",
-      "url": "https://science.nasa.gov/earth/supercomputing-tech-demo-schedule/",
-      "summary": "Supercomputing 2026 Join NASA in the Exhibit Hall (Booth #4038) for presentations by NASA experts. Full Tech Demo schedule below. TUESDAY, NOVEMBER 17 10:00 AMType-safe Templates in Fortran 2028Tom Clune10:30 AMType-safe Templates",
-      "source": "NASA news"
-    },
-    {
-      "title": "APOD: 2026 November 6 – A Farewell to Swift",
-      "category": "Other",
-      "published": "2026-11-06T05:05:00+00:00",
-      "url": "https://science.nasa.gov/image-article/apod-2026-november-6-a-farewell-to-swift/",
-      "summary": "APOD Science APOD APOD: 2026 November 6 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our",
       "source": "NASA news"
     }
   ],
