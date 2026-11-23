@@ -1,14 +1,8 @@
 window.NASA_NEWS = {
-  "updated_at": "2026-11-22T08:22:38+00:00",
+  "updated_at": "2026-11-23T09:22:32+00:00",
   "status": "updated",
   "sources": [
-    "NASA Space Station",
-    "NASA mission blogs",
-    "NASA Artemis",
-    "NASA news",
-    "NASA Technology",
-    "NASA Artemis missions",
-    "NASA Image of the Day"
+    "NASA Technology"
   ],
   "articles": [
     {
@@ -812,8 +806,8 @@ window.NASA_NEWS = {
       "source": "NASA news"
     }
   ],
-  "feed_success_count": 7,
-  "feed_failure_count": 1,
+  "feed_success_count": 1,
+  "feed_failure_count": 7,
   "image_of_day": {
     "title": "NASA's Curiosity Mars Rover Collects Samples",
     "url": "https://www.nasa.gov/image-detail/pia26804/",
