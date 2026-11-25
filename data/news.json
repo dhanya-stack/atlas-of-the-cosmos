@@ -1,16 +1,120 @@
 {
-  "updated_at": "2026-11-24T11:16:53+00:00",
+  "updated_at": "2026-11-25T10:02:13+00:00",
   "status": "updated",
   "sources": [
-    "NASA Space Station",
-    "NASA mission blogs",
     "NASA Artemis",
+    "NASA mission blogs",
+    "NASA Space Station",
+    "NASA news",
     "NASA Artemis missions",
     "NASA Technology",
-    "NASA news",
     "NASA Image of the Day"
   ],
   "articles": [
+    {
+      "title": "APOD: 2026 November 25 – SPHEREx Seeing Through Dust",
+      "category": "Other",
+      "published": "2026-11-25T05:05:00+00:00",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-25-spherex-seeing-through-dust/",
+      "summary": "APOD Science APOD APOD: 2026 November 25 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our ",
+      "source": "NASA news"
+    },
+    {
+      "title": "Georgia’s Pecan Belt",
+      "category": "Other",
+      "published": "2026-11-25T05:00:00+00:00",
+      "url": "https://science.nasa.gov/earth/earth-observatory/georgias-pecan-belt/",
+      "summary": "Since an early-1900s planting boom, orchards along the Flint River in southwest Georgia have become a center of U.S. pecan production.",
+      "source": "NASA news"
+    },
+    {
+      "title": "NASA+ Content Coming to Big Screen at Greenbelt, Maryland Cinema",
+      "category": "Other",
+      "published": "2026-11-24T21:14:36+00:00",
+      "url": "https://www.nasa.gov/nasa/nasa-content-coming-to-big-screen-at-greenbelt-maryland-cinema/",
+      "summary": "NASA announced Monday that NASA+ content has found its first theatrical home at The Greenbelt Cinema in Greenbelt, Maryland, expanding the agency’s reach across major viewing platforms and bringing space even closer to home. “The ",
+      "source": "NASA news"
+    },
+    {
+      "title": "Teams Lock in Mission Architecture for NASA’s SR-1 Freedom",
+      "category": "Other",
+      "published": "2026-11-24T21:04:32+00:00",
+      "url": "https://www.nasa.gov/general/nasa-locks-in-sr1-freedom-mission-architecture/",
+      "summary": "NASA completed a major review for Space Reactor-1 (SR-1) Freedom and locked in key elements of the spacecraft, which is targeted to launch in 2028 and demonstrate nuclear electric propulsion in deep space for the first time. Exper",
+      "source": "NASA news"
+    },
+    {
+      "title": "Amateur Astronomer? Be a Kilonova Catcher!",
+      "category": "Other",
+      "published": "2026-11-24T19:19:52+00:00",
+      "url": "https://science.nasa.gov/get-involved/citizen-science/amateur-astronomer-be-a-kilonova-catcher/",
+      "summary": "Neutron stars are the ultra-dense, city-sized leftovers of dead stars. When they collide, they can release a brief flash of light called a kilonova. These immensely powerful events forge much of the universe’s gold, platinum and o",
+      "source": "NASA news"
+    },
+    {
+      "title": "NASA’s Northrop Grumman CRS-25 Mission Overview",
+      "category": "Space Station",
+      "published": "2026-11-24T19:09:16+00:00",
+      "url": "https://www.nasa.gov/missions/station/nasas-northrop-grumman-crs-25-mission-overview/",
+      "summary": "NASA’s Northrop Grumman Commercial Resupply Services 25 mission, or Northrop Grumman CRS-25, will deliver about 11,000 pounds of science and supplies to the International Space Station. The mission will be the third flight of the ",
+      "source": "NASA Space Station"
+    },
+    {
+      "title": "AGU Hyperwall Schedule",
+      "category": "Other",
+      "published": "2026-11-24T18:55:42+00:00",
+      "url": "https://science.nasa.gov/earth/agu-hyperwall-schedule/",
+      "summary": "American Geophysical Union (AGU) 2026 Join NASA in the Exhibit Hall (Booth #525) for Hyperwall Storytelling by NASA experts. Full Hyperwall Agenda below. TUESDAY, NOVEMBER 17 10:30 AMHigh Resolution Hydrology Simulations and Agent",
+      "source": "NASA news"
+    },
+    {
+      "title": "Webb Reveals New Details in Supernova Remnant",
+      "category": "Science",
+      "published": "2026-11-24T16:51:27+00:00",
+      "url": "https://www.nasa.gov/image-article/webb-reveals-new-details-in-supernova-remnant/",
+      "summary": "NASA’s James Webb Space Telescope reveals the hot dust that makes up Cassiopeia A (Cas A) in this high-resolution, mid-infrared image released on Nov. 23, 2026. Remnants like these are the clouds of gas and dust that remain follow",
+      "source": "NASA news"
+    },
+    {
+      "title": "NASA’s Titan-Bound Dragonfly Rotorcraft Gets Its Eyes",
+      "category": "Other",
+      "published": "2026-11-24T15:44:38+00:00",
+      "url": "https://science.nasa.gov/missions/dragonfly/nasas-titan-bound-dragonfly-rotorcraft-gets-its-eyes/",
+      "summary": "Science instruments for NASA’s Dragonfly are starting to arrive at the Johns Hopkins Applied Physics Laboratory (APL) in Laurel, Maryland, where the car-sized rotorcraft is coming together for its mission to explore Saturn’s large",
+      "source": "NASA news"
+    },
+    {
+      "title": "Crew Awaits Thanksgiving Day Delivery as Another Cargo Craft Nears Launch",
+      "category": "Other",
+      "published": "2026-11-24T15:05:29+00:00",
+      "url": "https://www.nasa.gov/blogs/spacestation/2026/11/24/crew-awaits-thanksgiving-day-delivery-as-another-cargo-craft-nears-launch/",
+      "summary": "A Progress 97 cargo spacecraft from Roscosmos is orbiting Earth and on its way to resupply the Expedition 75 crew aboard the International Space Station after launching at 5:17 a.m. EST today from Kazakhstan. Filled with about thr",
+      "source": "NASA mission blogs"
+    },
+    {
+      "title": "NASA Hubble’s New View of NGC 4394 Raises the Bar",
+      "category": "Science",
+      "published": "2026-11-24T13:58:28+00:00",
+      "url": "https://science.nasa.gov/missions/hubble/nasa-hubbles-new-view-of-ngc-4394-raises-the-bar/",
+      "summary": "The brilliant galaxy NGC 4394 with its distinct galactic bar takes center stage in this Hubble Space Telescope image",
+      "source": "NASA news"
+    },
+    {
+      "title": "Progress Cargo Craft Lifts Off to Resupply Expedition 75 Crew",
+      "category": "Space Station",
+      "published": "2026-11-24T10:34:45+00:00",
+      "url": "https://www.nasa.gov/blogs/spacestation/2026/11/24/progress-cargo-craft-lifts-off-to-resupply-expedition-75-crew/",
+      "summary": "The unpiloted Roscosmos Progress 97 spacecraft is safely in orbit and on its way to the International Space Station after launching at 5:17 a.m. EST (3:17 p.m. Baikonur time) on a Soyuz rocket from the Baikonur Cosmodrome in Kazak",
+      "source": "NASA mission blogs"
+    },
+    {
+      "title": "Progress Cargo Craft Counts Down to Launch from Kazakhstan",
+      "category": "Other",
+      "published": "2026-11-24T09:41:47+00:00",
+      "url": "https://www.nasa.gov/blogs/spacestation/2026/11/24/progress-cargo-craft-counts-down-to-launch-from-kazakhstan/",
+      "summary": "NASA will provide live coverage of the launch and docking of a Roscosmos cargo spacecraft carrying about three tons of food, fuel, and supplies for the crew aboard the International Space Station.",
+      "source": "NASA mission blogs"
+    },
     {
       "title": "APOD: 2026 November 24 – Galaxies Battle in the NGC 7771 Group",
       "category": "Science",
@@ -706,119 +810,15 @@
       "url": "https://science.nasa.gov/image-article/apod-2026-november-12-moon-venus-and-spica-meet/",
       "summary": "APOD Science APOD APOD: 2026 November 12 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our ",
       "source": "NASA news"
-    },
-    {
-      "title": "Scotland’s Flow Country",
-      "category": "Other",
-      "published": "2026-11-12T05:01:00+00:00",
-      "url": "https://science.nasa.gov/earth/earth-observatory/scotlands-flow-country/",
-      "summary": "Blanket bogs in the Scottish Highlands store vast amounts of carbon.",
-      "source": "NASA news"
-    },
-    {
-      "title": "Curiosity Blog, Sols 5063-5069 Rocks and Chips",
-      "category": "Other",
-      "published": "2026-11-12T00:41:35+00:00",
-      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5063-5069-rocks-and-chips/",
-      "summary": "Written by William Farrand, Senior Research Scientist, Space Science Institute Earth planning date: Friday, Nov. 6, 2026 This week Curiosity has been completing its drill campaign at the “Nazca” drill hole. This is an area charact",
-      "source": "NASA news"
-    },
-    {
-      "title": "Honoring NASA’s X-59 Test Pilots on Veterans Day",
-      "category": "Other",
-      "published": "2026-11-11T14:00:00+00:00",
-      "url": "https://www.nasa.gov/blogs/quesst/2026/11/11/x-59-test-pilots-veterans-day/",
-      "summary": "Seasoned pilots, aerospace engineers, and U.S. military veterans, NASA’s X-59 test pilots bring decades of service, technical expertise, and flight experience to the agency’s Quesst mission. NASA X-59 pilots Jim “Clue” Less and Ni",
-      "source": "NASA mission blogs"
-    },
-    {
-      "title": "APOD: 2026 November 11 – NGC 4449: Small Galaxy, Big Impact",
-      "category": "Science",
-      "published": "2026-11-11T05:05:00+00:00",
-      "url": "https://science.nasa.gov/image-article/apod-2026-november-11-ngc-4449-small-galaxy-big-impact/",
-      "summary": "APOD Science APOD APOD: 2026 November 11 – NGC… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of ",
-      "source": "NASA news"
-    },
-    {
-      "title": "Water Surges Into Navajo Reservoir",
-      "category": "Other",
-      "published": "2026-11-11T05:01:00+00:00",
-      "url": "https://science.nasa.gov/earth/earth-observatory/water-surges-into-navajo-reservoir/",
-      "summary": "Rounds of heavy rain in the U.S. Southwest flooded rivers and rapidly raised New Mexico’s second-largest reservoir.",
-      "source": "NASA news"
-    },
-    {
-      "title": "Microbiology, Spacesuits, and Cargo Mission Preps Keep Crew Busy",
-      "category": "Other",
-      "published": "2026-11-10T19:31:40+00:00",
-      "url": "https://www.nasa.gov/blogs/spacestation/2026/11/10/microbiology-spacesuits-and-cargo-mission-preps-keep-crew-busy/",
-      "summary": "Microbiology and spacesuit maintenance kept the Expedition 75 crew busy aboard the International Space Station on Tuesday. The orbital residents are also preparing for upcoming cargo missions at the orbital outpost.",
-      "source": "NASA mission blogs"
-    },
-    {
-      "title": "NASA Invites Media, Public to Join Voyager 1 One-Light Day Activities",
-      "category": "Other",
-      "published": "2026-11-10T19:22:45+00:00",
-      "url": "https://www.nasa.gov/news-release/nasa-invites-media-public-to-join-voyager-1-one-light-day-activities/",
-      "summary": "Launched nearly 50 years ago in 1977, NASA’s Voyager 1 on Wednesday, Nov. 18 will have traveled one light-day from Earth, which is more than 16 billion miles (25.9 billion kilometers). Voyager 1 is the most distant human-made obje",
-      "source": "NASA news"
-    },
-    {
-      "title": "NASA to Welcome Expedition 74 Astronauts Home at Space Center Houston",
-      "category": "Space Station",
-      "published": "2026-11-10T18:06:33+00:00",
-      "url": "https://www.nasa.gov/news-release/nasa-to-welcome-expedition-74-astronauts-home-at-space-center-houston/",
-      "summary": "NASA will welcome home the Expedition 74 crew during a public event at Space Center Houston following their return from a long-duration mission aboard the International Space Station. NASA astronauts Jessica Meir, Jack Hathaway, a",
-      "source": "NASA news"
-    },
-    {
-      "title": "NASA Scientists Show How Gravitational Waves Can Reveal New Worlds",
-      "category": "Other",
-      "published": "2026-11-10T16:00:26+00:00",
-      "url": "https://science.nasa.gov/missions/lisa/gravitational-waves-can-reveal-new-worlds/",
-      "summary": "The LISA (Laser Interferometer Space Antenna) observatory, now in development, will detect gravitational waves, the tiny ripples in space-time caused by orbiting masses. Now two studies led by NASA astrophysicists show in new deta",
-      "source": "NASA news"
-    },
-    {
-      "title": "CHAPEA Crew Leaves a Mark",
-      "category": "Other",
-      "published": "2026-11-10T14:57:55+00:00",
-      "url": "https://www.nasa.gov/image-article/chapea-crew-leaves-a-mark/",
-      "summary": "The Crew Health and Performance Exploration Analog (CHAPEA) Mission 2 crew arranged photos around a boot print in the simulated Martian sand outside their habitat on Aug. 31, 2026. The crew recently exited their habitat on Saturda",
-      "source": "NASA news"
-    },
-    {
-      "title": "APOD: 2026 November 10 – Saturn Behind the Moon",
-      "category": "Other",
-      "published": "2026-11-10T05:05:00+00:00",
-      "url": "https://science.nasa.gov/image-article/apod-2026-november-10-saturn-behind-the-moon/",
-      "summary": "APOD Science APOD APOD: 2026 November 10 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our ",
-      "source": "NASA news"
-    },
-    {
-      "title": "Autumn Mornings Bring Valley Fog",
-      "category": "Other",
-      "published": "2026-11-10T05:00:00+00:00",
-      "url": "https://science.nasa.gov/earth/earth-observatory/autumn-mornings-bring-valley-fog/",
-      "summary": "Low clouds trace the branching valleys of the Appalachian Plateau and the Cumberland River, then burn off by afternoon.",
-      "source": "NASA news"
-    },
-    {
-      "title": "Curiosity Blog, Sols 5056-5062: Charging Back Up!",
-      "category": "Other",
-      "published": "2026-11-10T01:07:45+00:00",
-      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5056-5062-charging-back-up/",
-      "summary": "By Remington Free, Operations Systems Engineer, NASA-JPL Earth planning date: Friday, Oct. 30, 2026 Today’s plan covered 3 sols, 5060, 5061, and 5062, as we take a few recharging sols before getting back to our normal drilling act",
-      "source": "NASA news"
     }
   ],
   "feed_success_count": 7,
   "feed_failure_count": 1,
   "image_of_day": {
-    "title": "Studying Cancer Cells in Microgravity",
-    "url": "https://www.nasa.gov/image-detail/jsc2026e426880/",
-    "image": "https://www.nasa.gov/wp-content/uploads/2026/11/jsc2026e426880orig.jpg",
-    "published": "2026-11-23T17:29:00+00:00",
+    "title": "Webb Reveals New Details in Supernova Remnant",
+    "url": "https://www.nasa.gov/image-detail/cas-a-webb-miri/",
+    "image": "https://www.nasa.gov/wp-content/uploads/2026/11/cas-a-webb-miri.png",
+    "published": "2026-11-24T16:52:00+00:00",
     "caption": "NASA Image of the Day · NASA"
   }
 }
