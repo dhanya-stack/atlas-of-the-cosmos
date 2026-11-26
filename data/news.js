@@ -1,16 +1,88 @@
 window.NASA_NEWS = {
-  "updated_at": "2026-11-25T10:02:13+00:00",
+  "updated_at": "2026-11-26T09:45:54+00:00",
   "status": "updated",
   "sources": [
-    "NASA Artemis",
-    "NASA mission blogs",
     "NASA Space Station",
     "NASA news",
     "NASA Artemis missions",
+    "NASA Artemis",
+    "NASA Image of the Day",
     "NASA Technology",
-    "NASA Image of the Day"
+    "NASA mission blogs"
   ],
   "articles": [
+    {
+      "title": "APOD: 2026 November 26 – Eye in the Sky: The Milky Way over Lençóis",
+      "category": "Other",
+      "published": "2026-11-26T05:05:00+00:00",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-26-eye-in-the-sky-the-milky-way-over-lencois/",
+      "summary": "APOD Science APOD APOD: 2026 November 26 – Eye… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of ",
+      "source": "NASA news"
+    },
+    {
+      "title": "Seeking Refuge on Resolution Island",
+      "category": "Other",
+      "published": "2026-11-26T05:01:00+00:00",
+      "url": "https://science.nasa.gov/earth/earth-observatory/seeking-refuge-on-resolution-island/",
+      "summary": "New Zealanders have long envisioned the island as a predator-free zone for native birds, but swimming stoats have shown a resolve of their own.",
+      "source": "NASA news"
+    },
+    {
+      "title": "NASA Enhances Supplier Program, Announces Mentor-Protégé Agreement",
+      "category": "Other",
+      "published": "2026-11-25T19:06:56+00:00",
+      "url": "https://www.nasa.gov/organizations/osbp/nasa-enhances-supplier-program-announces-mentor-protege-agreement/",
+      "summary": "How NASA works with small businesses is evolving, and as a result, the agency is strengthening the domestic aerospace industrial base to support future exploration missions through its recently renamed Small Business Supplier Deve",
+      "source": "NASA news"
+    },
+    {
+      "title": "NASA Eyes Crop Candidates for Future Menus",
+      "category": "Space Station",
+      "published": "2026-11-25T17:53:42+00:00",
+      "url": "https://science.nasa.gov/directorates/smd/nasa-eyes-crop-candidates-for-future-menus/",
+      "summary": "As NASA prepares for future missions to the Moon and Mars, researchers are studying crops that could provide astronauts with fresh food, nutrition, and variety far from Earth. Such crop variety can help with menus in deep space, s",
+      "source": "NASA Space Station"
+    },
+    {
+      "title": "Childhood, Career Come Full Circle for Budget Analyst at NASA Goddard",
+      "category": "Other",
+      "published": "2026-11-25T16:47:29+00:00",
+      "url": "https://www.nasa.gov/centers-and-facilities/goddard/childhood-career-come-full-circle-for-budget-analyst-at-nasa-goddard/",
+      "summary": "Conversations about NASA were the norm around the dinner table during Ashley Knight’s childhood. Her parents worked at NASA’s Goddard Space Flight Center in Greenbelt, Maryland, and discussions about happenings at the agency conti",
+      "source": "NASA news"
+    },
+    {
+      "title": "Eye of the Sahara",
+      "category": "Other",
+      "published": "2026-11-25T16:21:04+00:00",
+      "url": "https://www.nasa.gov/image-article/eye-of-the-sahara/",
+      "summary": "The Richat Structure, also known as the “Eye of the Sahara,” is seen from the International Space Station as it orbited above on Nov. 14, 2026. It is an eroded geological dome about 100 million years old created by igneous activit",
+      "source": "NASA news"
+    },
+    {
+      "title": "Crew Works Biomedical Research Day Before Thanksgiving Space Delivery",
+      "category": "Other",
+      "published": "2026-11-25T16:17:32+00:00",
+      "url": "https://www.nasa.gov/blogs/spacestation/2026/11/25/crew-works-biomedical-research-day-before-thanksgiving-space-delivery/",
+      "summary": "Advanced biomedical research with ultrasound scans and blood pressure checks topped the research schedule aboard the International Space Station on Wednesday. Expedition 75 is also preparing for a cargo mission arriving on Thanksg",
+      "source": "NASA mission blogs"
+    },
+    {
+      "title": "NASA’s Europa Clipper Zooming by Earth on Way to Jupiter’s Icy Moon",
+      "category": "Science",
+      "published": "2026-11-25T16:00:28+00:00",
+      "url": "https://science.nasa.gov/blogs/europa-clipper/2026/11/25/nasas-europa-clipper-zooming-by-earth-on-way-to-jupiters-icy-moon/",
+      "summary": "Lee esta historia en español aquí. NASA’s Europa Clipper will soon swing past Earth before making a yearslong beeline for Jupiter, where the orbiter will probe whether the ocean beneath its moon Europa’s icy shell has the ingredie",
+      "source": "NASA mission blogs"
+    },
+    {
+      "title": "NASA’s Hubble Views Ocean of Stars in Groundwork for Roman",
+      "category": "Science",
+      "published": "2026-11-25T14:56:54+00:00",
+      "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-views-ocean-of-stars-in-groundwork-for-roman/",
+      "summary": "These Hubble observations are part of a survey that will help researchers better interpret upcoming Nancy Grace Roman Space Telescope observations as they seek to characterize the stars and search for exoplanets in this busy regio",
+      "source": "NASA news"
+    },
     {
       "title": "APOD: 2026 November 25 – SPHEREx Seeing Through Dust",
       "category": "Other",
@@ -738,87 +810,15 @@ window.NASA_NEWS = {
       "url": "https://www.nasa.gov/image-article/gemini-astronaut-photos-inspired-early-earth-observation-program/",
       "summary": "Astronauts James A. Lovell Jr. and Edwin E. “Buzz” Aldrin Jr. orbited Earth from November 11 to 15, 1966, on Gemini XII, the final mission of NASA’s Gemini program. In addition to successfully completing rendezvous maneuvers and s",
       "source": "NASA news"
-    },
-    {
-      "title": "APOD: 2026 November 13 – NGC 206 and the Star Clouds of Andromeda",
-      "category": "Science",
-      "published": "2026-11-13T05:05:00+00:00",
-      "url": "https://science.nasa.gov/image-article/apod-2026-november-13-ngc-206-and-the-star-clouds-of-andromeda/",
-      "summary": "APOD Science APOD APOD: 2026 November 13 – NGC… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of ",
-      "source": "NASA news"
-    },
-    {
-      "title": "A Global Rebound for Mangroves",
-      "category": "Other",
-      "published": "2026-11-13T05:01:00+00:00",
-      "url": "https://science.nasa.gov/earth/earth-observatory/a-global-rebound-for-mangroves/",
-      "summary": "After decades of decline, this ecologically significant type of forest is making a comeback.",
-      "source": "NASA news"
-    },
-    {
-      "title": "Crew Packs Dragon with Science and Cleans Spacesuits",
-      "category": "Science",
-      "published": "2026-11-12T22:07:49+00:00",
-      "url": "https://www.nasa.gov/blogs/spacestation/2026/11/12/dragon-science-spacesuits/",
-      "summary": "Expedition 75 had a busy shift on Thursday primarily focusing on packing a U.S. cargo craft for its upcoming departure and cleaning a pair of spacesuits. Thursday’s research topics aboard the International Space Station included s",
-      "source": "NASA mission blogs"
-    },
-    {
-      "title": "I Am Artemis Katie Spicer",
-      "category": "Artemis",
-      "published": "2026-11-12T20:10:02+00:00",
-      "url": "https://www.nasa.gov/missions/artemis/i-am-artemis-katie-spicer/",
-      "summary": "For Katie Spicer, embracing opportunity and challenge has led to giant leaps during her time at NASA. Now as the NASA lander integration lead for Blue Origin’s Blue Moon Mark 2 lander, one of the commercially provided human landin",
-      "source": "NASA news"
-    },
-    {
-      "title": "Heart in the Sky at NASA Kennedy",
-      "category": "Other",
-      "published": "2026-11-12T19:12:49+00:00",
-      "url": "https://www.nasa.gov/image-article/heart-in-the-sky-at-nasa-kennedy/",
-      "summary": "The U.S. Air Force Thunderbirds create a heart-shaped smoke trail during a flight maneuver near NASA’s Vehicle Assembly Building during the agency’s MAX POWER expo and air show on Sunday, Nov. 8, 2026, at NASA’s Kennedy Space Cent",
-      "source": "NASA news"
-    },
-    {
-      "title": "NASA Ames Stars of the Month: November 2026",
-      "category": "Science",
-      "published": "2026-11-12T17:54:32+00:00",
-      "url": "https://www.nasa.gov/general/nasa-ames-stars-of-the-month-november-2026/",
-      "summary": "The NASA Ames Science Directorate recognizes the outstanding contributions of (pictured left to right) Alyssa Villanueva, Steve Howell, and Samuel LeBlanc. Their commitment to the NASA mission represents the entrepreneurial spirit",
-      "source": "NASA news"
-    },
-    {
-      "title": "NASA’s Hubble Offers Cosmic Sampler of Targets for Roman",
-      "category": "Science",
-      "published": "2026-11-12T13:18:40+00:00",
-      "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-offers-cosmic-sampler-of-targets-for-roman/",
-      "summary": "A gallery of gravitational lenses captured by NASA’s Hubble Space Telescope showcases the diversity of this cosmic phenomenon and lays the groundwork for follow-up observations by the Nancy Grace Roman Space Telescope.",
-      "source": "NASA news"
-    },
-    {
-      "title": "Through NASA’s Lens: Capturing Space Shuttle Endeavour’s Move to LA",
-      "category": "Other",
-      "published": "2026-11-12T13:00:00+00:00",
-      "url": "https://www.nasa.gov/centers-and-facilities/armstrong/through-nasas-lens-capturing-space-shuttle-endeavours-move-to-la/",
-      "summary": "As a new exhibit opens showcasing NASA’s space shuttle Endeavour, NASA photographers look back at the final mission. These photographers documented the iconic images shared around the world on Sept. 21, 2012, while millions watche",
-      "source": "NASA news"
-    },
-    {
-      "title": "APOD: 2026 November 12 – Moon, Venus and Spica Meet",
-      "category": "Other",
-      "published": "2026-11-12T05:05:00+00:00",
-      "url": "https://science.nasa.gov/image-article/apod-2026-november-12-moon-venus-and-spica-meet/",
-      "summary": "APOD Science APOD APOD: 2026 November 12 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our ",
-      "source": "NASA news"
     }
   ],
   "feed_success_count": 7,
   "feed_failure_count": 1,
   "image_of_day": {
-    "title": "Webb Reveals New Details in Supernova Remnant",
-    "url": "https://www.nasa.gov/image-detail/cas-a-webb-miri/",
-    "image": "https://www.nasa.gov/wp-content/uploads/2026/11/cas-a-webb-miri.png",
-    "published": "2026-11-24T16:52:00+00:00",
+    "title": "Eye of the Sahara",
+    "url": "https://www.nasa.gov/image-detail/iss075e0274930/",
+    "image": "https://www.nasa.gov/wp-content/uploads/2026/11/iss075e0274930orig.jpg",
+    "published": "2026-11-25T16:22:00+00:00",
     "caption": "NASA Image of the Day · NASA"
   }
 };
