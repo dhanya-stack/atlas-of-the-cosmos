@@ -1,16 +1,48 @@
 window.NASA_NEWS = {
-  "updated_at": "2026-11-26T09:45:54+00:00",
+  "updated_at": "2026-11-27T09:51:27+00:00",
   "status": "updated",
   "sources": [
+    "NASA Artemis",
+    "NASA Technology",
+    "NASA mission blogs",
     "NASA Space Station",
     "NASA news",
     "NASA Artemis missions",
-    "NASA Artemis",
-    "NASA Image of the Day",
-    "NASA Technology",
-    "NASA mission blogs"
+    "NASA Image of the Day"
   ],
   "articles": [
+    {
+      "title": "APOD: 2026 November 27 – The Moon Watchers",
+      "category": "Other",
+      "published": "2026-11-27T05:05:00+00:00",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-27-the-moon-watchers/",
+      "summary": "APOD Science APOD APOD: 2026 November 27 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our ",
+      "source": "NASA news"
+    },
+    {
+      "title": "Shivelyuch Socked In",
+      "category": "Other",
+      "published": "2026-11-27T05:01:00+00:00",
+      "url": "https://science.nasa.gov/earth/earth-observatory/shivelyuch-socked-in/",
+      "summary": "A cloud layer encircled the flanks of the volcano on the Kamchatka Peninsula but left its restless summit caldera in view.",
+      "source": "NASA news"
+    },
+    {
+      "title": "Progress Cargo Craft Docks to Station on Thanksgiving Day",
+      "category": "Other",
+      "published": "2026-11-26T12:19:44+00:00",
+      "url": "https://www.nasa.gov/blogs/spacestation/2026/11/26/progress-cargo-craft-docks-to-station-on-thanksgiving-day/",
+      "summary": "The Roscosmos Progress 97 spacecraft docked to the Earth-facing port of the International Space Station’s Rassvet module at 7:08 a.m. EST Thursday.",
+      "source": "NASA mission blogs"
+    },
+    {
+      "title": "Progress Cargo Craft Approaching Station With Space Delivery",
+      "category": "Other",
+      "published": "2026-11-26T11:32:37+00:00",
+      "url": "https://www.nasa.gov/blogs/spacestation/2026/11/26/progress-cargo-craft-approaching-station-with-space-delivery/",
+      "summary": "NASA is streaming live rendezvous and docking coverage as the Roscosmos Progress 97 cargo spacecraft makes its way to the International Space Station. Watch online at: https://www.nasa.gov/live The unpiloted spacecraft remains on ",
+      "source": "NASA mission blogs"
+    },
     {
       "title": "APOD: 2026 November 26 – Eye in the Sky: The Milky Way over Lençóis",
       "category": "Other",
@@ -777,38 +809,6 @@ window.NASA_NEWS = {
       "published": "2026-11-16T05:00:00+00:00",
       "url": "https://science.nasa.gov/earth/earth-observatory/the-last-ice-on-puncak-jaya/",
       "summary": "Ice near the summit of the Indonesian mountain peak has shrunk to scattered patches too small to flow like glaciers.",
-      "source": "NASA news"
-    },
-    {
-      "title": "Instruments on NASA’s Roman Space Telescope Get in Sync for Science",
-      "category": "Science",
-      "published": "2026-11-13T18:54:51+00:00",
-      "url": "https://science.nasa.gov/blogs/roman/2026/11/13/instruments-on-nasas-roman-space-telescope-get-in-sync-for-science/",
-      "summary": "NASA’s Nancy Grace Roman Space Telescope has completed a key milestone, bringing its instruments into precise alignment and moving the observatory another step closer to science operations. “Roman requires exquisite alignment beca",
-      "source": "NASA mission blogs"
-    },
-    {
-      "title": "Botany, Biomedicine, and Cargo Ops Wrap Up Week Aboard Station",
-      "category": "Other",
-      "published": "2026-11-13T18:00:58+00:00",
-      "url": "https://www.nasa.gov/blogs/spacestation/2026/11/13/botany-biomedicine-and-cargo-ops-wrap-up-week-aboard-station/",
-      "summary": "Space botany and biomedical research filled the scientific schedule aboard the International Space Station at the end of the week. Expedition 75 is also continuing to load a U.S. cargo spacecraft before its upcoming departure and ",
-      "source": "NASA mission blogs"
-    },
-    {
-      "title": "Outbursts from a Massive Star",
-      "category": "Science",
-      "published": "2026-11-13T16:39:33+00:00",
-      "url": "https://www.nasa.gov/image-article/outbursts-from-a-massive-star/",
-      "summary": "Using NASA’s Chandra X-ray Observatory, astronomers have discovered what is triggering repeated outbursts from a giant, unstable star located in the galaxy shown in this image released on Nov. 9, 2026. The volatile star, known as ",
-      "source": "NASA news"
-    },
-    {
-      "title": "Gemini Astronaut Photos Inspired Early Earth Observation Program",
-      "category": "Science",
-      "published": "2026-11-13T16:05:54+00:00",
-      "url": "https://www.nasa.gov/image-article/gemini-astronaut-photos-inspired-early-earth-observation-program/",
-      "summary": "Astronauts James A. Lovell Jr. and Edwin E. “Buzz” Aldrin Jr. orbited Earth from November 11 to 15, 1966, on Gemini XII, the final mission of NASA’s Gemini program. In addition to successfully completing rendezvous maneuvers and s",
       "source": "NASA news"
     }
   ],
